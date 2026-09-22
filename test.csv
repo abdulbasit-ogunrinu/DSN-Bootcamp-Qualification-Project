@@ -1,0 +1,1706 @@
+id,product_code,product_weight_kg,fat_content,shelf_visibility,product_category,product_price,store_code,store_age_years,store_size,store_location_tier,store_format
+row_00009,PRD-2WLNC8,8.628,Low Fat,0.0167,household,190.72,STORE-HL7,23,Medium,Tier_3,Superstore
+row_00015,PRD-LV9PLM,6.993,Low Fat,0.0579,Health and Hygiene,261.07,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_00019,PRD-ET6ZI7,,Low Fat,0.1262,FRUITS AND VEGETABLES,112.5,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_00020,PRD-6RX35U,14.034,Regular,0.0761,frozen foods,200.71,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00023,PRD-I4J38V,13.063,Low Fat,0.065,Frozen Foods,150.59,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_00026,PRD-N4RCER,,Regular,0.2659,Seafood,152.0,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_00027,PRD-SCSFW2,9.567,Regular,0.0,Frozen Foods,229.93,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_00033,PRD-12310X,8.067,Low Fat,0.0139,Health and Hygiene,185.21,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_00034,PRD-3MS556,,Regular,0.0696,BAKING GOODS,149.91,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_00037,PRD-QKXIRH,19.034,Low Fat,0.1006,Frozen Foods,123.72,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_00041,PRD-8D7CED,12.668,Low Fat,0.0694,Starchy Foods,126.06,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_00042,PRD-C3DXMR,16.732,Low Fat,0.036,SNACK FOODS,92.34,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_00045,PRD-28N1GP,13.901,Low Fat,0.0638,BAKING GOODS,82.74,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_00049,PRD-NE9NNO,9.16,Low Fat,0.0085,FRUITS AND VEGETABLES,123.56,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_00056,PRD-XSDJWS,17.892,Low Fat,0.0848,frozen foods,193.71,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00057,PRD-U3BDL2,8.754,Regular,0.0521,breads,128.85,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_00060,PRD-1ZXOI6,11.861,Regular,0.0631,Soft Drinks,57.26,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00079,PRD-02NFGI,,Low Fat,0.0364,CANNED,177.56,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_00082,PRD-6WDG1O,9.385,Regular,0.051,Frozen Foods,245.89,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_00085,PRD-J2E42T,13.187,Low Fat,0.1347,Frozen Foods,149.95,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00091,PRD-FGGUXT,5.755,Regular,0.0582,SNACK FOODS,62.83,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00104,PRD-B7ITAT,11.979,Low Fat,0.126,baking goods,150.98,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00105,PRD-48C6WZ,15.994,Regular,0.0184,FRUITS AND VEGETABLES,62.36,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00109,PRD-7W86NG,8.289,Low Fat,0.0596,Health and Hygiene,105.2,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_00115,PRD-8LMN4R,15.281,Low Fat,0.0515,SOFT DRINKS,40.4,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_00117,PRD-8449K6,,Regular,0.1325,fruits and vegetables,207.96,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_00119,PRD-070S1K,14.352,Low Fat,0.0606,Household,181.68,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_00120,PRD-K054NZ,12.375,Low Fat,0.0313,Soft Drinks,147.7,STORE-HL7,23,Medium,Tier_3,Superstore
+row_00123,PRD-237WI9,10.609,Low Fat,0.0,FROZEN FOODS,61.61,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_00125,PRD-E5UPVR,16.812,Regular,0.0769,Snack Foods,109.77,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_00130,PRD-ZN1N5R,,Regular,0.0576,Meat,196.77,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_00132,PRD-8KQGUY,7.935,Low Fat,0.0304,Household,123.15,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00134,PRD-IT7I1J,18.835,Regular,0.0755,Snack Foods,113.65,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_00139,PRD-GZGU9E,13.455,Low Fat,0.1006,Dairy,227.66,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_00141,PRD-6LCP22,20.788,Low Fat,0.0677,CANNED,263.82,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_00144,PRD-F88JRF,18.212,Regular,0.0609,Frozen Foods,146.89,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_00162,PRD-6KBJ2C,15.731,Low Fat,0.0884,Dairy,144.57,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_00189,PRD-9RIGPP,20.142,Low Fat,0.0497,fruits and vegetables,36.84,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_00192,PRD-CYUEID,9.917,Low Fat,0.0896,others,189.19,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_00202,PRD-1LYFSP,19.747,Low Fat,0.1739,Fruits and Vegetables,217.59,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_00203,PRD-YGW5F2,,Low Fat,0.1509,Meat,105.97,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_00208,PRD-RWWK6P,8.427,Low Fat,0.0135,BAKING GOODS,92.94,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00210,PRD-00EIUE,8.615,Regular,0.071,canned,187.54,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00220,PRD-QIGCT2,14.729,Regular,0.0519,Baking Goods,122.16,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_00235,PRD-K2W2CW,16.374,Low Fat,0.0,Canned,118.62,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_00236,PRD-1YKXQ9,19.291,Low Fat,0.0538,HEALTH AND HYGIENE,105.63,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_00247,PRD-US5PUY,14.989,Low Fat,0.1231,Fruits and Vegetables,49.82,STORE-JOR,34,,Tier_3,Corner Shop
+row_00249,PRD-QJTAA7,7.163,Regular,0.1671,breads,33.74,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00252,PRD-A3SKAD,,Low Fat,0.0721,HOUSEHOLD,161.14,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_00254,PRD-KDGVNM,6.643,Low Fat,0.0526,Canned,146.07,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_00256,PRD-AZUAYN,,Low Fat,0.1111,Health and Hygiene,156.92,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_00260,PRD-1QV3CG,8.225,Regular,0.0401,FRUITS AND VEGETABLES,188.25,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00265,PRD-0W78AQ,8.122,Low Fat,0.0473,Fruits and Vegetables,47.32,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00266,PRD-L6HYC1,7.32,Regular,0.1384,Snack Foods,99.84,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_00269,PRD-FKR26J,,Low Fat,0.0558,Frozen Foods,110.75,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_00283,PRD-ZEFKVO,5.283,Regular,0.0444,Meat,102.15,STORE-HL7,23,Medium,Tier_3,Superstore
+row_00288,PRD-6192K4,15.794,Low Fat,0.1048,Soft Drinks,60.0,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_00293,PRD-EQUA7O,11.534,Regular,0.0251,Meat,102.14,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00296,PRD-QDXOEA,,Low Fat,0.0474,snack foods,113.8,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_00298,PRD-BQNJ97,,Low Fat,0.059,baking goods,105.56,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_00301,PRD-24Z860,5.95,Regular,0.011,frozen foods,87.63,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_00305,PRD-EWB9HJ,7.701,Low Fat,0.0363,Health and Hygiene,172.06,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_00322,PRD-47VEYF,6.252,Regular,0.1544,Meat,215.9,STORE-JOR,34,,Tier_3,Corner Shop
+row_00323,PRD-R3PE29,5.66,Low Fat,0.1696,Soft Drinks,147.94,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_00325,PRD-C3DXMR,,Low Fat,0.0364,snack foods,90.02,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_00327,PRD-CEM9N4,12.509,Low Fat,0.1361,frozen foods,244.29,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_00336,PRD-JDXA1F,10.001,Low Fat,0.0268,meat,131.39,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00337,PRD-QNVF2X,14.857,Regular,0.0203,dairy,261.25,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00341,PRD-GLI4UP,13.766,Low Fat,0.0369,Starchy Foods,123.94,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_00345,PRD-OQ0Y2Z,15.7,Low Fat,0.0549,BAKING GOODS,202.33,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_00353,PRD-ZSDP5Y,16.481,Low Fat,0.0293,snack foods,91.79,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_00354,PRD-0X3FG6,20.312,Regular,0.0979,FRUITS AND VEGETABLES,120.28,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00363,PRD-10N229,19.791,Low Fat,0.0137,Household,144.2,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00368,PRD-P5GVBS,,Regular,0.1455,Dairy,231.17,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_00370,PRD-BCDPQ9,13.309,Regular,0.1208,DAIRY,236.96,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00373,PRD-WV98Y3,19.746,Low Fat,0.144,SNACK FOODS,123.29,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_00374,PRD-8KYLHT,9.247,Low Fat,0.166,Snack Foods,104.36,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_00375,PRD-NMIC1F,11.46,Regular,0.0431,snack foods,102.3,STORE-HL7,23,Medium,Tier_3,Superstore
+row_00377,PRD-VOYP59,16.946,Regular,0.1221,Fruits and Vegetables,184.06,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_00385,PRD-MQC1A7,14.747,Low Fat,0.1766,Hard Drinks,53.89,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_00389,PRD-E6K088,,Regular,0.1367,Frozen Foods,88.89,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_00391,PRD-2VTJXU,6.275,Low Fat,0.1192,fruits and vegetables,47.08,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_00404,PRD-HD96M8,11.993,Low Fat,0.1044,Starchy Foods,33.2,STORE-JOR,34,,Tier_3,Corner Shop
+row_00405,PRD-IFY7O0,13.217,Regular,0.0425,FRUITS AND VEGETABLES,181.13,STORE-HL7,23,Medium,Tier_3,Superstore
+row_00407,PRD-1I4N2E,10.21,Low Fat,0.0219,Household,248.63,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_00415,PRD-EI7XZU,13.384,Low Fat,0.0221,Fruits and Vegetables,187.64,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00416,PRD-1ZUYZY,8.704,Regular,0.0481,fruits and vegetables,174.17,STORE-HL7,23,Medium,Tier_3,Superstore
+row_00423,PRD-00EIUE,,Regular,0.1306,Canned,185.74,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_00430,PRD-45BA89,11.206,Regular,0.0841,FROZEN FOODS,158.06,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_00431,PRD-XH6DLO,18.353,Low Fat,0.1249,frozen foods,118.22,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_00435,PRD-AF3WE8,8.4,Regular,0.1314,Frozen Foods,78.2,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_00437,PRD-2XAHHF,19.907,Low Fat,0.0155,Health and Hygiene,139.45,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_00438,PRD-3U0H8W,12.177,Low Fat,0.0376,Frozen Foods,199.03,STORE-JOR,34,,Tier_3,Corner Shop
+row_00439,PRD-S0LI0X,10.414,Regular,0.0185,Starchy Foods,236.9,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00441,PRD-61J4BY,19.828,Low Fat,0.0116,Household,159.44,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_00447,PRD-OS7E3D,9.383,Low Fat,0.0479,Household,44.27,STORE-JOR,34,,Tier_3,Corner Shop
+row_00448,PRD-QKXIRH,18.293,Low Fat,0.1061,FROZEN FOODS,121.32,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_00449,PRD-ANEC1W,6.295,Low Fat,0.0119,fruits and vegetables,37.75,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_00460,PRD-5WVO01,,Low Fat,0.0528,HEALTH AND HYGIENE,36.51,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_00465,PRD-8UHW94,6.025,Regular,0.0305,Frozen Foods,104.53,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_00472,PRD-J0G50R,19.146,Low Fat,0.0627,canned,88.45,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_00476,PRD-SVH3EJ,6.197,Low Fat,0.0126,meat,38.79,STORE-HL7,23,Medium,Tier_3,Superstore
+row_00478,PRD-I1E9QQ,7.948,Low Fat,0.1947,household,253.37,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00480,PRD-YGW5F2,,Low Fat,0.2484,Meat,105.18,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_00485,PRD-4GPYWS,14.128,Low Fat,0.0,Fruits and Vegetables,215.76,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_00488,PRD-BF1I3L,14.42,Low Fat,0.1579,Soft Drinks,48.22,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_00498,PRD-54IKMO,12.76,Regular,0.1544,fruits and vegetables,242.74,STORE-HL7,23,Medium,Tier_3,Superstore
+row_00499,PRD-Y54CLR,19.193,Regular,0.1274,SNACK FOODS,171.68,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_00500,PRD-USV9I5,18.121,Regular,0.066,Fruits and Vegetables,240.33,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_00504,PRD-X9X39I,10.034,Low Fat,0.0984,Snack Foods,115.31,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_00508,PRD-2PCM3G,18.913,Low Fat,0.0391,Fruits and Vegetables,111.84,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_00518,PRD-ZKEARJ,16.479,Low Fat,0.028,HEALTH AND HYGIENE,108.06,STORE-JOR,34,,Tier_3,Corner Shop
+row_00519,PRD-V5MOIJ,,Regular,0.0413,CANNED,40.27,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_00520,PRD-PQNOMP,17.127,Low Fat,0.0583,BAKING GOODS,104.67,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00525,PRD-JQPKAH,8.589,Low Fat,0.0663,household,91.49,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_00526,PRD-JTGE75,6.418,Regular,0.0358,BREADS,156.33,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_00530,PRD-1NG2QG,7.621,Regular,0.1428,Frozen Foods,152.22,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_00531,PRD-Z3POTF,,Regular,0.0492,canned,147.22,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_00534,PRD-N6ZV9D,,Regular,0.1611,Fruits and Vegetables,65.26,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_00538,PRD-Q8DDGB,8.043,Regular,0.0351,Frozen Foods,75.96,STORE-HL7,23,Medium,Tier_3,Superstore
+row_00543,PRD-D7OODG,19.028,Regular,0.0861,Fruits and Vegetables,79.55,STORE-JOR,34,,Tier_3,Corner Shop
+row_00551,PRD-ZTKB9Z,,Low Fat,0.1006,HOUSEHOLD,227.6,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_00555,PRD-E7SSM9,7.345,Low Fat,0.095,HOUSEHOLD,55.96,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_00559,PRD-B7ITAT,11.612,Low Fat,0.1302,Baking Goods,152.26,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_00561,PRD-95N4VP,15.85,Low Fat,0.0462,frozen foods,182.95,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_00569,PRD-GNJ6OM,15.703,Regular,0.1099,Baking Goods,183.6,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_00572,PRD-Z36JWB,,Low Fat,0.1496,Baking Goods,106.93,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_00577,PRD-FHG8KS,,Low Fat,0.1154,Household,127.58,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_00580,PRD-3KEGH5,6.011,Low Fat,0.0441,Canned,223.66,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_00584,PRD-WOSQMC,,Low Fat,0.0,fruits and vegetables,183.34,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_00585,PRD-D7S0Z9,17.389,Low Fat,0.0972,Health and Hygiene,237.01,STORE-HL7,23,Medium,Tier_3,Superstore
+row_00591,PRD-64V0WS,18.68,Low Fat,0.0772,snack foods,124.11,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00601,PRD-CXBJQ3,,Low Fat,0.0506,Health and Hygiene,180.37,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_00603,PRD-0G6HSH,6.015,Regular,0.0787,Baking Goods,156.15,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_00613,PRD-6EGA7N,16.856,Low Fat,0.101,canned,183.43,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_00618,PRD-OZ9XFZ,15.608,Regular,0.0964,Frozen Foods,88.0,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_00620,PRD-1LYFSP,19.261,Low Fat,0.1717,Fruits and Vegetables,221.77,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00622,PRD-UIB5SQ,,Low Fat,0.0269,meat,76.22,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_00623,PRD-8JU6OJ,14.466,Low Fat,0.1243,Baking Goods,77.56,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_00632,PRD-KK5FI1,12.617,Regular,0.0762,canned,83.92,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_00635,PRD-49DBZ7,11.145,Low Fat,0.1709,Snack Foods,107.92,STORE-HL7,23,Medium,Tier_3,Superstore
+row_00637,PRD-8CLUBN,17.868,Regular,0.0418,Snack Foods,37.67,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_00638,PRD-098QST,7.194,Low Fat,0.0,FROZEN FOODS,257.69,STORE-JOR,34,,Tier_3,Corner Shop
+row_00640,PRD-PF322F,9.1,Low Fat,0.0,breakfast,178.7,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_00641,PRD-RACGN7,12.149,Low Fat,0.0961,Health and Hygiene,80.3,STORE-JOR,34,,Tier_3,Corner Shop
+row_00646,PRD-DPF1H3,9.764,Low Fat,0.0733,snack foods,257.66,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_00649,PRD-1HSPTH,15.45,Low Fat,0.1257,CANNED,135.97,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00656,PRD-IZED1I,16.387,Regular,0.0368,snack foods,143.36,STORE-HL7,23,Medium,Tier_3,Superstore
+row_00659,PRD-GD8AFP,18.766,Low Fat,0.0444,Dairy,43.26,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_00661,PRD-S668FR,,Low Fat,0.0884,OTHERS,182.04,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_00662,PRD-V0T5X3,16.306,Low Fat,0.0216,DAIRY,108.77,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_00663,PRD-YKZ3FQ,14.761,Low Fat,0.0737,health and hygiene,127.19,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_00667,PRD-ANNREG,18.764,Regular,0.0346,Canned,140.96,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_00670,PRD-EVFXVR,,Low Fat,0.1529,HOUSEHOLD,158.91,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_00673,PRD-5FI6ER,9.439,Regular,0.1077,Canned,79.05,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_00674,PRD-S4MGBN,,Low Fat,0.1184,Fruits and Vegetables,170.28,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_00681,PRD-FF5E8I,15.351,Low Fat,0.0362,Soft Drinks,179.92,STORE-HL7,23,Medium,Tier_3,Superstore
+row_00683,PRD-ZJZCZV,8.394,Low Fat,0.0388,snack foods,99.95,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_00684,PRD-MELISH,,Low Fat,0.0269,SNACK FOODS,148.37,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_00689,PRD-2RFKBT,8.628,Low Fat,0.0525,Household,145.23,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_00690,PRD-P9K4YE,,Low Fat,0.0094,Frozen Foods,116.8,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_00698,PRD-UC3160,17.33,Regular,0.0789,Meat,110.56,STORE-HL7,23,Medium,Tier_3,Superstore
+row_00700,PRD-UJG7IN,6.161,Low Fat,0.0,FROZEN FOODS,122.79,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_00702,PRD-1I4N2E,10.179,Low Fat,0.022,Household,246.37,STORE-HL7,23,Medium,Tier_3,Superstore
+row_00704,PRD-FF5E8I,15.432,Low Fat,0.0385,SOFT DRINKS,177.6,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_00705,PRD-VI7F16,,Regular,0.1262,snack foods,120.36,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_00710,PRD-GZ27FH,15.843,Low Fat,0.0,Canned,101.0,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_00711,PRD-PX2TN7,12.389,Low Fat,0.1122,Baking Goods,34.94,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_00714,PRD-75E78H,7.157,Low Fat,0.0309,household,171.17,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_00716,PRD-T9U9NM,7.9,Regular,0.0637,breakfast,57.71,STORE-HL7,23,Medium,Tier_3,Superstore
+row_00720,PRD-02NFGI,5.818,Low Fat,0.0332,CANNED,180.93,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_00721,PRD-IPH6H7,5.839,Low Fat,0.0443,fruits and vegetables,151.17,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_00723,PRD-0W78AQ,8.162,Low Fat,0.0462,fruits and vegetables,47.51,STORE-HL7,23,Medium,Tier_3,Superstore
+row_00730,PRD-MY5ZPJ,8.076,Low Fat,0.0342,hard drinks,112.82,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_00732,PRD-9RHIGZ,7.837,Low Fat,0.0622,Snack Foods,100.83,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_00733,PRD-Y0VDVE,,Low Fat,0.047,DAIRY,237.11,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_00741,PRD-IMZXFQ,6.856,Low Fat,0.0228,Frozen Foods,262.9,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_00753,PRD-E4XLA5,9.684,Regular,0.1321,Baking Goods,217.5,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_00755,PRD-G7JPM7,6.565,Regular,0.0183,snack foods,59.31,STORE-JOR,34,,Tier_3,Corner Shop
+row_00760,PRD-FF5E8I,15.357,Low Fat,0.0373,SOFT DRINKS,182.37,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_00764,PRD-ZGVTUI,10.77,Low Fat,0.0998,Meat,98.06,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_00770,PRD-CEEQ2B,9.335,Low Fat,0.0328,Fruits and Vegetables,109.74,STORE-HL7,23,Medium,Tier_3,Superstore
+row_00771,PRD-BOVVPN,,Low Fat,0.0518,Health and Hygiene,201.87,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_00774,PRD-QVRR9A,8.14,Low Fat,0.0628,HARD DRINKS,224.6,STORE-HL7,23,Medium,Tier_3,Superstore
+row_00783,PRD-EF6Y39,,Regular,0.0239,Snack Foods,137.62,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_00796,PRD-ONUBR9,8.651,Low Fat,0.243,canned,49.88,STORE-JOR,34,,Tier_3,Corner Shop
+row_00804,PRD-48PPNK,19.248,Low Fat,0.0166,HEALTH AND HYGIENE,131.05,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_00808,PRD-1DSTWG,7.365,Low Fat,0.1498,fruits and vegetables,238.7,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_00812,PRD-6LCP22,21.116,Low Fat,0.1108,Canned,256.25,STORE-JOR,34,,Tier_3,Corner Shop
+row_00814,PRD-IT7I1J,19.614,Regular,0.0769,snack foods,117.89,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00815,PRD-OUWR61,8.21,Regular,0.0371,dairy,87.77,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_00819,PRD-5J92DM,17.302,Regular,0.1597,frozen foods,199.34,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_00825,PRD-ZKEARJ,16.738,Low Fat,0.0164,Health and Hygiene,107.09,STORE-HL7,23,Medium,Tier_3,Superstore
+row_00826,PRD-1HSPTH,15.743,Low Fat,0.1271,Canned,130.56,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_00832,PRD-F4D9ZQ,,Low Fat,0.1424,Meat,67.41,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_00835,PRD-195DWY,16.827,Low Fat,0.0,FRUITS AND VEGETABLES,204.46,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_00840,PRD-0QD58X,17.97,Regular,0.0154,breads,42.87,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_00844,PRD-LYF3YR,,Low Fat,0.0061,Household,170.09,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_00845,PRD-MHVK3Q,14.243,Low Fat,0.1662,Fruits and Vegetables,50.85,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_00851,PRD-237WI9,10.692,Low Fat,0.0559,Frozen Foods,55.79,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_00856,PRD-BVGKP7,15.65,Regular,0.0245,fruits and vegetables,95.54,STORE-HL7,23,Medium,Tier_3,Superstore
+row_00868,PRD-8WJAI7,,Low Fat,0.1139,snack foods,175.88,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_00874,PRD-DQHDK3,15.547,Regular,0.0368,SNACK FOODS,111.97,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_00875,PRD-RVU8FI,14.192,Low Fat,0.1823,Soft Drinks,83.58,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00880,PRD-70LKLF,16.193,Regular,0.0698,Canned,107.25,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00882,PRD-X7RF1F,10.03,Low Fat,0.0429,Snack Foods,45.12,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_00884,PRD-1UFH01,9.067,Regular,0.0789,SNACK FOODS,50.72,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_00891,PRD-4DGYDF,9.501,Regular,0.0492,Frozen Foods,246.07,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_00899,PRD-RB4BUY,17.379,Regular,0.0442,FROZEN FOODS,159.04,STORE-HL7,23,Medium,Tier_3,Superstore
+row_00905,PRD-MJ7PDZ,17.961,Low Fat,0.0121,Frozen Foods,96.7,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_00906,PRD-06GUU9,,Low Fat,0.0072,household,183.02,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_00914,PRD-TVSXA7,7.257,Low Fat,0.0671,health and hygiene,142.27,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_00924,PRD-NY1QEG,9.431,Low Fat,0.0363,FROZEN FOODS,62.6,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_00946,PRD-TW0A9P,12.823,Regular,0.0817,Canned,201.11,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_00947,PRD-7VMGGA,11.437,Low Fat,0.0369,health and hygiene,98.97,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_00948,PRD-L5PBHR,12.988,Low Fat,0.0213,breads,85.16,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_00963,PRD-QE536X,,Low Fat,0.0935,Fruits and Vegetables,92.55,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_00977,PRD-PF9A0N,,Regular,0.0357,Dairy,125.68,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_00980,PRD-YC4OM3,12.05,Low Fat,0.012,dairy,163.84,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_00981,PRD-PT4MX2,,Regular,0.0729,Fruits and Vegetables,108.44,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_00984,PRD-GLFRI8,,Low Fat,0.0219,breakfast,224.98,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_00996,PRD-533CFS,21.436,Low Fat,0.025,HOUSEHOLD,147.14,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_00997,PRD-88AENN,11.318,Regular,0.0928,Fruits and Vegetables,159.85,STORE-JOR,34,,Tier_3,Corner Shop
+row_00998,PRD-1QW65X,6.083,Low Fat,0.0969,Household,129.29,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_00999,PRD-6IUUKZ,10.854,Regular,0.0324,Frozen Foods,142.87,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_01001,PRD-KDNQ4G,21.846,Low Fat,0.0196,Snack Foods,122.51,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_01017,PRD-ZE8YM4,10.836,Low Fat,0.0771,others,66.28,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_01025,PRD-8CX8FG,14.379,Regular,0.0923,Frozen Foods,235.97,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_01026,PRD-JT10UE,12.289,Regular,0.0826,FRUITS AND VEGETABLES,91.42,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_01031,PRD-28T7A9,14.303,Low Fat,0.1036,DAIRY,153.79,STORE-JOR,34,,Tier_3,Corner Shop
+row_01032,PRD-U3P1ZC,16.799,Low Fat,0.1342,Breads,85.92,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_01034,PRD-40V1GK,17.195,Low Fat,0.026,Snack Foods,255.44,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_01043,PRD-N5F3DX,16.929,Regular,0.0153,Snack Foods,234.7,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_01044,PRD-5AH9WE,18.819,Low Fat,0.0891,HOUSEHOLD,192.28,STORE-HL7,23,Medium,Tier_3,Superstore
+row_01046,PRD-OKCXPA,10.248,Low Fat,0.0313,CANNED,50.99,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_01050,PRD-RB4BUY,18.149,Regular,0.0418,Frozen Foods,161.25,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_01064,PRD-8CL0LC,6.697,Low Fat,0.0457,canned,162.06,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_01077,PRD-VICDRI,21.007,Regular,0.1271,frozen foods,121.58,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_01078,PRD-PTOMJB,7.743,Low Fat,0.0331,Soft Drinks,167.26,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_01085,PRD-L9KV91,10.388,Low Fat,0.0323,SEAFOOD,162.42,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_01090,PRD-CXN22P,16.196,Low Fat,0.0879,dairy,96.79,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_01093,PRD-PJ1TV2,17.349,Regular,0.0308,Fruits and Vegetables,140.55,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_01104,PRD-PNWDDS,11.227,Low Fat,0.0,DAIRY,44.44,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_01105,PRD-QYXGO4,19.139,Low Fat,0.054,Fruits and Vegetables,55.59,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_01107,PRD-9Q4JNA,19.622,Low Fat,0.0636,snack foods,265.38,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_01108,PRD-N2D7GY,17.571,Low Fat,0.0308,OTHERS,177.07,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_01111,PRD-IWS48A,14.537,Regular,0.0341,baking goods,99.51,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_01115,PRD-54TA1S,,Regular,0.0377,Breakfast,152.25,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_01119,PRD-F075N4,15.108,Regular,0.0649,SNACK FOODS,182.15,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_01123,PRD-2CQ23Q,7.943,Low Fat,0.0294,Canned,165.57,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_01124,PRD-PJGDSY,5.946,Low Fat,0.147,SNACK FOODS,152.98,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_01126,PRD-TFZHI9,8.44,Low Fat,0.1447,health and hygiene,96.1,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_01129,PRD-EPMKVT,20.187,Low Fat,0.075,Health and Hygiene,58.62,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_01145,PRD-ZBM21Y,20.323,Low Fat,0.0216,BAKING GOODS,155.61,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_01146,PRD-9SEY62,18.339,Low Fat,0.022,FRUITS AND VEGETABLES,94.03,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_01148,PRD-33VFUM,17.243,Low Fat,0.0531,Health and Hygiene,128.23,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_01162,PRD-HYS3T2,6.219,Low Fat,0.0709,snack foods,121.03,STORE-HL7,23,Medium,Tier_3,Superstore
+row_01165,PRD-LUJBU0,8.182,Regular,0.0453,baking goods,108.28,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_01178,PRD-JQPKAH,8.716,Low Fat,0.0695,HOUSEHOLD,91.63,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_01183,PRD-3IZLX3,17.593,Regular,0.2296,FRUITS AND VEGETABLES,87.38,STORE-JOR,34,,Tier_3,Corner Shop
+row_01190,PRD-6KHXCY,12.07,Regular,0.0597,meat,148.48,STORE-HL7,23,Medium,Tier_3,Superstore
+row_01191,PRD-OF1GG2,13.262,Low Fat,0.0352,Snack Foods,183.85,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_01192,PRD-FIYLHL,6.665,Regular,0.0298,Snack Foods,186.88,STORE-HL7,23,Medium,Tier_3,Superstore
+row_01197,PRD-NMRS5Y,8.439,Low Fat,0.0327,BAKING GOODS,92.09,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_01202,PRD-9C3FUQ,15.82,Low Fat,0.1469,HARD DRINKS,247.45,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_01205,PRD-F26B46,19.259,Low Fat,0.0604,Dairy,83.13,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_01207,PRD-F4B8DW,20.187,Low Fat,0.036,dairy,217.3,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_01209,PRD-APC4XY,7.345,Regular,0.0393,Baking Goods,63.07,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_01211,PRD-LQK65V,18.124,Low Fat,0.0464,snack foods,127.98,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_01212,PRD-GILBRO,6.81,Low Fat,0.0236,MEAT,143.62,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_01213,PRD-Q8SB7X,21.122,Regular,0.0217,Breakfast,127.72,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_01215,PRD-1APTC7,20.138,Low Fat,0.0,health and hygiene,108.72,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_01237,PRD-AVAYTG,10.604,Regular,0.0515,canned,79.39,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_01246,PRD-UP3HR2,8.556,Low Fat,0.1196,Fruits and Vegetables,93.48,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_01254,PRD-1MJQUE,16.85,Regular,0.0,BAKING GOODS,97.32,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_01263,PRD-KJ6I53,7.837,Low Fat,0.191,HOUSEHOLD,35.94,STORE-HL7,23,Medium,Tier_3,Superstore
+row_01266,PRD-Q8LYYX,11.622,Regular,0.0736,FROZEN FOODS,173.09,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_01268,PRD-0QD58X,,Regular,0.0277,Breads,43.82,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_01277,PRD-GNJ6OM,16.004,Regular,0.1077,baking goods,180.18,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_01293,PRD-64DI7N,19.702,Regular,0.0557,FROZEN FOODS,151.62,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_01294,PRD-8VF3SM,,Regular,0.0281,canned,88.81,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_01295,PRD-21520R,15.174,Low Fat,0.0467,Snack Foods,87.53,STORE-JOR,34,,Tier_3,Corner Shop
+row_01300,PRD-07NNDG,,Regular,0.0471,Frozen Foods,252.55,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_01304,PRD-UC3160,,Regular,0.0773,Meat,109.55,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_01311,PRD-D7J32F,6.945,Low Fat,0.0851,Fruits and Vegetables,145.36,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_01314,PRD-R08XCC,,Regular,0.1659,Meat,46.22,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_01315,PRD-4GS0FH,16.965,Regular,0.0761,CANNED,142.23,STORE-JOR,34,,Tier_3,Corner Shop
+row_01330,PRD-N6HW1H,12.252,Regular,0.0622,STARCHY FOODS,91.24,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_01332,PRD-4XH4FJ,18.732,Regular,0.0913,Frozen Foods,187.48,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_01334,PRD-WOC36V,15.43,Low Fat,0.0647,Others,182.43,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_01345,PRD-MH7GX8,18.925,Low Fat,0.1002,Dairy,54.64,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_01350,PRD-AY4H8W,9.034,Regular,0.0805,Breads,175.21,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_01355,PRD-A3SKAD,13.844,Low Fat,0.0715,household,162.64,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_01356,PRD-VDCG3B,21.334,Regular,0.1345,SEAFOOD,235.33,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_01357,PRD-DTLHAI,11.872,Regular,0.0571,BAKING GOODS,52.99,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_01362,PRD-KSF4HT,11.612,Low Fat,0.0324,Seafood,111.52,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_01368,PRD-EPZHPC,17.283,Low Fat,0.0854,SOFT DRINKS,266.11,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_01375,PRD-VN8NN8,9.289,Regular,0.0807,MEAT,107.09,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_01380,PRD-GZCPKR,19.578,Low Fat,0.0145,household,56.66,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_01390,PRD-VOYP59,16.443,Regular,0.2097,fruits and vegetables,185.57,STORE-JOR,34,,Tier_3,Corner Shop
+row_01396,PRD-UOG5JV,9.913,Low Fat,0.0265,SNACK FOODS,218.41,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_01397,PRD-J51IFI,11.837,Low Fat,0.0,Breads,165.84,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_01404,PRD-Y23CCL,9.449,Regular,0.0217,MEAT,190.15,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_01407,PRD-0ZYCMV,18.618,Low Fat,0.0127,Fruits and Vegetables,159.11,STORE-HL7,23,Medium,Tier_3,Superstore
+row_01412,PRD-K1Z5BY,11.299,Low Fat,0.0433,SNACK FOODS,178.52,STORE-HL7,23,Medium,Tier_3,Superstore
+row_01418,PRD-994LX9,8.014,Low Fat,0.142,Dairy,104.44,STORE-HL7,23,Medium,Tier_3,Superstore
+row_01424,PRD-YX3CXX,12.94,Low Fat,0.0511,Breads,61.53,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_01433,PRD-76RKQ4,5.299,Low Fat,0.0251,Dairy,235.24,STORE-HL7,23,Medium,Tier_3,Superstore
+row_01436,PRD-UZS9IM,17.363,Low Fat,0.0423,Soft Drinks,166.28,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_01443,PRD-76CI5F,9.811,Low Fat,0.0521,HEALTH AND HYGIENE,151.16,STORE-JOR,34,,Tier_3,Corner Shop
+row_01456,PRD-AFT69N,11.496,Regular,0.0,Frozen Foods,179.69,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_01465,PRD-PF9A0N,4.693,Regular,0.037,Dairy,127.49,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_01475,PRD-ZEFKVO,5.256,Regular,0.0459,meat,105.93,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_01478,PRD-0IFJNT,13.301,Low Fat,0.0721,DAIRY,163.38,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_01494,PRD-5QVWC9,,Low Fat,0.2026,household,259.83,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_01497,PRD-CC46C1,,Regular,0.2067,baking goods,193.93,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_01499,PRD-82BCVD,20.434,Regular,0.0621,Fruits and Vegetables,126.73,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_01501,PRD-RCD9SI,16.975,Low Fat,0.0205,Hard Drinks,55.12,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_01508,PRD-J8GI5O,5.678,Regular,0.1033,FROZEN FOODS,218.87,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_01513,PRD-V0PRKG,,Low Fat,0.0656,SOFT DRINKS,239.52,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_01532,PRD-52UH5B,16.855,Low Fat,0.0717,Canned,211.94,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_01534,PRD-M9RIT8,8.125,Low Fat,0.0167,Snack Foods,166.69,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_01540,PRD-WMFTOO,18.742,Low Fat,0.0462,health and hygiene,149.73,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_01552,PRD-USV9I5,18.43,Regular,0.0679,fruits and vegetables,247.68,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_01553,PRD-IAZMTU,14.336,Low Fat,0.025,Baking Goods,103.84,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_01563,PRD-FKR26J,,Low Fat,0.0,Frozen Foods,109.41,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_01564,PRD-N3QXKH,13.921,Low Fat,0.0891,DAIRY,224.47,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_01565,PRD-NVGFYG,8.803,Low Fat,0.0198,soft drinks,157.85,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_01567,PRD-7Q5FPH,,Low Fat,0.2278,fruits and vegetables,161.4,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_01572,PRD-7Z4G25,,Low Fat,0.11,Canned,152.7,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_01573,PRD-AQNCDZ,13.524,Regular,0.015,Canned,204.02,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_01576,PRD-RJ6GD2,12.018,Low Fat,0.0085,Health and Hygiene,118.78,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_01577,PRD-EOGKKC,14.397,Low Fat,0.0115,Others,53.66,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_01583,PRD-9R9NDL,14.817,Regular,0.0127,Snack Foods,135.12,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_01586,PRD-ITKQO4,5.896,Regular,0.1546,meat,157.99,STORE-HL7,23,Medium,Tier_3,Superstore
+row_01594,PRD-K1Z5BY,,Low Fat,0.0463,SNACK FOODS,169.37,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_01596,PRD-YP2KNW,12.086,Regular,0.0561,Fruits and Vegetables,160.55,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_01598,PRD-41CMGC,7.374,Low Fat,0.0406,fruits and vegetables,225.88,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_01605,PRD-1XRZN0,,Low Fat,0.0362,Canned,219.02,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_01616,PRD-GILBRO,,Low Fat,0.0222,meat,144.13,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_01621,PRD-C5BDFU,6.415,Low Fat,0.0322,DAIRY,183.25,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_01624,PRD-55LOSM,7.406,Low Fat,0.0209,SNACK FOODS,254.41,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_01625,PRD-2LYWBI,7.56,Low Fat,0.1642,SNACK FOODS,95.19,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_01626,PRD-9ESEQG,6.278,Regular,0.1713,Meat,92.43,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_01630,PRD-WWQC38,12.527,Low Fat,0.0685,Soft Drinks,104.06,STORE-HL7,23,Medium,Tier_3,Superstore
+row_01639,PRD-9RIGPP,20.442,Low Fat,0.0501,FRUITS AND VEGETABLES,38.29,STORE-HL7,23,Medium,Tier_3,Superstore
+row_01641,PRD-6GKHNX,8.624,Low Fat,0.0509,Health and Hygiene,127.96,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_01643,PRD-UVYP1N,14.132,Regular,0.0974,snack foods,162.62,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_01648,PRD-7RS8R0,6.518,Low Fat,0.1073,fruits and vegetables,85.67,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_01654,PRD-51LIY8,,Low Fat,0.066,dairy,56.16,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_01655,PRD-O15RRZ,12.527,Low Fat,0.1016,FROZEN FOODS,36.61,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_01656,PRD-6NJX8K,6.991,Low Fat,0.0368,household,232.72,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_01659,PRD-GJY1KD,14.324,Low Fat,0.0085,HOUSEHOLD,199.33,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_01664,PRD-MHVK3Q,14.863,Low Fat,0.166,fruits and vegetables,48.65,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_01666,PRD-WU16HY,8.834,Low Fat,0.0,Dairy,44.76,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_01687,PRD-6D4HQC,6.845,Low Fat,0.0866,Snack Foods,107.47,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_01689,PRD-MJ7PDZ,17.52,Low Fat,0.0121,frozen foods,94.12,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_01693,PRD-XLZYOB,6.509,Low Fat,0.0076,frozen foods,61.45,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_01698,PRD-T83Z0P,18.57,Regular,0.0949,Meat,182.07,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_01700,PRD-JFPWZ6,11.731,Regular,0.0976,snack foods,128.97,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_01701,PRD-D7J32F,6.939,Low Fat,0.0,fruits and vegetables,152.22,STORE-HL7,23,Medium,Tier_3,Superstore
+row_01702,PRD-V5MOIJ,14.896,Regular,0.0404,CANNED,42.69,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_01714,PRD-9AHW2P,,Regular,0.0588,snack foods,230.83,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_01725,PRD-YDT7CU,14.214,Regular,0.0609,Breads,265.86,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_01743,PRD-0LMI8X,7.731,Regular,0.0552,canned,124.29,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_01750,PRD-7MBAPO,10.346,Regular,0.0535,Fruits and Vegetables,219.0,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_01762,PRD-FUST21,,Regular,0.1956,BAKING GOODS,88.41,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_01770,PRD-L7ZBSF,19.89,Regular,0.1076,Fruits and Vegetables,192.43,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_01773,PRD-O7V0VU,5.201,Low Fat,0.0375,CANNED,84.6,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_01782,PRD-KXWNRE,8.319,Regular,0.0312,soft drinks,122.59,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_01784,PRD-ZWW54A,21.164,Low Fat,0.114,Snack Foods,165.41,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_01790,PRD-VG9YSQ,12.984,Regular,0.0965,FROZEN FOODS,191.47,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_01792,PRD-QL2E5M,16.633,Low Fat,0.0629,Dairy,173.77,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_01801,PRD-F6EGQO,15.293,Low Fat,0.0919,SNACK FOODS,216.08,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_01802,PRD-KC97HQ,17.417,Low Fat,0.0101,snack foods,160.28,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_01805,PRD-DE4M6H,,Regular,0.0777,Frozen Foods,38.83,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_01808,PRD-VJARJI,19.18,Low Fat,0.0395,Snack Foods,41.65,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_01822,PRD-WZMTFC,9.05,Low Fat,0.055,HOUSEHOLD,110.55,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_01826,PRD-7MFP05,14.246,Low Fat,0.0365,Soft Drinks,41.04,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_01829,PRD-90O7Y2,15.026,Low Fat,0.0949,Soft Drinks,192.38,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_01836,PRD-SUSDFO,5.328,Regular,0.0407,Baking Goods,162.12,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_01839,PRD-W80O9D,18.132,Low Fat,0.1289,Frozen Foods,223.63,STORE-JOR,34,,Tier_3,Corner Shop
+row_01840,PRD-FKR26J,8.005,Low Fat,0.0,Frozen Foods,107.52,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_01844,PRD-COMXJF,9.017,Low Fat,0.1815,baking goods,124.54,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_01845,PRD-TKW2J2,7.145,Regular,0.0541,Breads,226.51,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_01853,PRD-S4SJ2V,5.207,Regular,0.0,DAIRY,55.94,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_01862,PRD-VKXTUF,20.447,Low Fat,0.0226,fruits and vegetables,94.72,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_01872,PRD-SDX9DA,13.601,Regular,0.0257,meat,39.0,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_01882,PRD-EVFXVR,14.291,Low Fat,0.0869,Household,164.66,STORE-HL7,23,Medium,Tier_3,Superstore
+row_01886,PRD-BUK3XF,21.286,Low Fat,0.0216,fruits and vegetables,103.05,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_01888,PRD-4B2PMS,21.24,Low Fat,0.0241,HEALTH AND HYGIENE,148.31,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_01895,PRD-5FVDDW,9.259,Regular,0.0321,Meat,154.79,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_01911,PRD-MRKSQJ,6.177,Regular,0.1259,snack foods,94.31,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_01915,PRD-2I8L31,21.095,Low Fat,0.0346,Fruits and Vegetables,119.06,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_01926,PRD-ZKHI80,13.056,Low Fat,0.0238,HOUSEHOLD,184.46,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_01932,PRD-VLUDBJ,,Regular,0.0388,snack foods,176.64,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_01946,PRD-85W6UY,9.1,Low Fat,0.1873,FRUITS AND VEGETABLES,102.22,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_01952,PRD-PZPHJM,16.368,Regular,0.1659,Snack Foods,148.4,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_01961,PRD-1AS2YU,19.328,Low Fat,0.0565,Baking Goods,131.24,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_01973,PRD-ZGIUDT,15.51,Low Fat,0.1556,Health and Hygiene,119.24,STORE-JOR,34,,Tier_3,Corner Shop
+row_01982,PRD-WTIGY6,11.329,Regular,0.0823,Snack Foods,172.76,STORE-HL7,23,Medium,Tier_3,Superstore
+row_01983,PRD-L9EKA0,5.96,Regular,0.1504,Soft Drinks,47.48,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_01991,PRD-P9K4YE,8.003,Low Fat,0.0055,Frozen Foods,123.76,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_01993,PRD-VICDRI,20.419,Regular,0.1167,frozen foods,119.36,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_01994,PRD-AQYP2R,,Regular,0.0159,Canned,194.9,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_01995,PRD-WMFTOO,18.795,Low Fat,0.0473,Health and Hygiene,149.03,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_01998,PRD-EFRJYJ,5.518,Regular,0.1447,Seafood,168.62,STORE-HL7,23,Medium,Tier_3,Superstore
+row_01999,PRD-VN8NN8,9.035,Regular,0.1316,meat,106.35,STORE-JOR,34,,Tier_3,Corner Shop
+row_02005,PRD-IV473J,20.224,Regular,0.0184,frozen foods,181.76,STORE-HL7,23,Medium,Tier_3,Superstore
+row_02011,PRD-JFPWZ6,11.552,Regular,0.0893,Snack Foods,128.43,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02015,PRD-R4VXL5,13.026,Low Fat,0.0361,baking goods,226.86,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_02016,PRD-Z565OD,10.398,Low Fat,0.0564,Household,113.2,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_02018,PRD-K1DZCJ,7.5,Low Fat,0.0941,household,256.74,STORE-HL7,23,Medium,Tier_3,Superstore
+row_02055,PRD-1VG7CO,15.473,Regular,0.1276,fruits and vegetables,173.28,STORE-HL7,23,Medium,Tier_3,Superstore
+row_02056,PRD-WCAQ6Y,12.456,Regular,0.1116,FRUITS AND VEGETABLES,84.45,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_02059,PRD-3KEGH5,,Low Fat,0.0805,canned,220.52,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_02068,PRD-7TV5ZK,6.922,Regular,0.1457,CANNED,107.51,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_02069,PRD-K8PK3Y,17.37,Low Fat,0.0257,SOFT DRINKS,149.12,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_02076,PRD-ITKQO4,,Regular,0.2681,Meat,154.82,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_02079,PRD-DZ26FO,,Low Fat,0.0297,canned,175.01,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_02083,PRD-042LPI,19.038,Low Fat,0.0457,health and hygiene,44.95,STORE-HL7,23,Medium,Tier_3,Superstore
+row_02086,PRD-M82I1L,9.604,Low Fat,0.1525,soft drinks,227.92,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_02095,PRD-5I0GQM,,Low Fat,0.2714,BREAKFAST,97.45,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_02098,PRD-HP1UAK,,Regular,0.0322,BAKING GOODS,175.86,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02100,PRD-SUDBCI,,Low Fat,0.0441,SNACK FOODS,180.73,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02103,PRD-D8LKB5,,Low Fat,0.043,SNACK FOODS,191.16,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02106,PRD-4CK9XH,12.645,Low Fat,0.101,HOUSEHOLD,176.5,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_02107,PRD-GU1UQX,11.05,Low Fat,0.1391,dairy,258.4,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02112,PRD-4DGYDF,9.613,Regular,0.0455,Frozen Foods,250.67,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_02118,PRD-XQS3H4,21.005,Regular,0.047,dairy,218.96,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02126,PRD-4R1F1X,17.582,Low Fat,0.008,DAIRY,169.82,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_02127,PRD-VLHZZ3,9.934,Low Fat,0.0,Frozen Foods,145.17,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_02130,PRD-V77G1P,14.87,Low Fat,0.0252,Frozen Foods,152.38,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_02133,PRD-MW0SKC,12.369,Regular,0.1627,Meat,155.76,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02146,PRD-1EYY37,14.846,Low Fat,0.0498,soft drinks,63.0,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_02147,PRD-0PKUUM,7.607,Regular,0.1462,STARCHY FOODS,174.76,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_02152,PRD-1RDEZX,13.265,Low Fat,0.0809,Dairy,233.21,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_02153,PRD-J2E42T,,Low Fat,0.1414,Frozen Foods,146.76,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02162,PRD-QK31H5,,Low Fat,0.0,Fruits and Vegetables,246.84,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02164,PRD-D7S0Z9,17.243,Low Fat,0.0972,Health and Hygiene,233.8,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02170,PRD-2GKFSF,5.929,Low Fat,0.0245,Household,149.59,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_02193,PRD-U3BDL2,8.794,Regular,0.0875,BREADS,128.98,STORE-JOR,34,,Tier_3,Corner Shop
+row_02195,PRD-UDA2RN,8.102,Regular,0.0985,BREAKFAST,101.59,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_02199,PRD-OM3ZAQ,16.144,Regular,0.0317,snack foods,252.74,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_02203,PRD-CXIFSU,,Low Fat,0.0057,Baking Goods,179.84,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02210,PRD-38JOEC,15.12,Regular,0.0167,Snack Foods,159.69,STORE-JOR,34,,Tier_3,Corner Shop
+row_02211,PRD-E8N6QI,11.051,Low Fat,0.0,SOFT DRINKS,233.31,STORE-HL7,23,Medium,Tier_3,Superstore
+row_02213,PRD-0V4GIA,9.045,Low Fat,0.1058,SNACK FOODS,183.78,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_02215,PRD-E8DE4C,15.684,Regular,0.1552,Snack Foods,149.68,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02218,PRD-EPZHPC,17.199,Low Fat,0.0864,Soft Drinks,263.54,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_02225,PRD-WWQC38,12.643,Low Fat,0.0718,Soft Drinks,108.44,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_02230,PRD-P45GAD,8.697,Low Fat,0.1216,Household,90.81,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_02235,PRD-6RDQYB,,Regular,0.0225,Meat,189.47,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_02238,PRD-R08XCC,18.968,Regular,0.1665,MEAT,47.54,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_02239,PRD-0U9DAQ,5.79,Low Fat,0.0893,frozen foods,153.21,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_02240,PRD-LQK65V,17.726,Low Fat,0.0713,snack foods,130.17,STORE-JOR,34,,Tier_3,Corner Shop
+row_02257,PRD-76CI5F,10.378,Low Fat,0.0302,HEALTH AND HYGIENE,157.75,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_02259,PRD-UHZ6A8,9.234,Low Fat,0.0402,HARD DRINKS,126.8,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_02262,PRD-W103DG,8.375,Low Fat,0.0179,Soft Drinks,192.02,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_02272,PRD-BJD8BL,9.881,Regular,0.0548,breads,86.41,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_02274,PRD-0AB7R8,12.942,Regular,0.1706,fruits and vegetables,169.45,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_02279,PRD-CVIYJK,11.522,Regular,0.0207,DAIRY,88.01,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_02280,PRD-SX50VK,6.259,Regular,0.1305,Snack Foods,35.29,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_02283,PRD-FTNWN0,17.865,Low Fat,0.1503,BREADS,90.94,STORE-HL7,23,Medium,Tier_3,Superstore
+row_02287,PRD-AYNU0X,,Low Fat,0.0348,BREADS,217.56,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02294,PRD-EU7OL7,18.313,Regular,0.02,meat,254.23,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_02303,PRD-EBEM2I,12.053,Regular,0.1035,Fruits and Vegetables,180.36,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02310,PRD-IEIQO7,18.655,Low Fat,0.1953,Others,56.07,STORE-JOR,34,,Tier_3,Corner Shop
+row_02313,PRD-J4EFFF,8.455,Low Fat,0.0434,DAIRY,87.74,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02316,PRD-UH8IUN,,Regular,0.0735,meat,91.37,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_02319,PRD-MW0SKC,12.223,Regular,0.1551,Meat,157.23,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_02322,PRD-YUXGFA,11.666,Regular,0.0372,Snack Foods,105.14,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_02323,PRD-EGB41B,5.143,Low Fat,0.0145,Household,120.97,STORE-JOR,34,,Tier_3,Corner Shop
+row_02327,PRD-EPWUKF,9.36,Low Fat,0.0,baking goods,42.72,STORE-HL7,23,Medium,Tier_3,Superstore
+row_02332,PRD-P1PFDI,17.852,Low Fat,0.1068,OTHERS,107.64,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_02333,PRD-E6VA05,9.263,Low Fat,0.0415,Soft Drinks,32.38,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_02339,PRD-63RMAJ,19.211,Low Fat,0.0158,Household,177.1,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02344,PRD-HYS3T2,6.113,Low Fat,0.0693,SNACK FOODS,118.0,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_02346,PRD-6852FC,11.979,Low Fat,0.0292,Hard Drinks,176.02,STORE-JOR,34,,Tier_3,Corner Shop
+row_02351,PRD-WOLYTS,12.542,Regular,0.0417,FRUITS AND VEGETABLES,122.93,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_02356,PRD-COMXJF,9.152,Low Fat,0.1831,Baking Goods,130.68,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_02357,PRD-VHT24B,7.432,Low Fat,0.0508,dairy,159.95,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_02361,PRD-GHO6AC,7.429,Regular,0.0681,SNACK FOODS,92.11,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_02363,PRD-Y2YYF8,,Low Fat,0.0833,Baking Goods,146.45,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02364,PRD-2P3YVB,5.036,Low Fat,0.0456,Soft Drinks,185.26,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_02370,PRD-NBDVPI,16.971,Regular,0.0588,Fruits and Vegetables,227.28,STORE-HL7,23,Medium,Tier_3,Superstore
+row_02372,PRD-NKZGGE,13.385,Low Fat,0.0942,SNACK FOODS,152.76,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02374,PRD-GZCPKR,,Low Fat,0.0253,HOUSEHOLD,53.94,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_02383,PRD-BPCIKI,15.491,Low Fat,0.0139,frozen foods,62.03,STORE-HL7,23,Medium,Tier_3,Superstore
+row_02385,PRD-74W4G2,,Regular,0.0279,FROZEN FOODS,96.63,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_02393,PRD-E6VA05,9.611,Low Fat,0.0418,soft drinks,32.98,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_02403,PRD-ZE8YM4,11.306,Low Fat,0.0,Others,63.77,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02411,PRD-CEEQ2B,9.641,Low Fat,0.0304,Fruits and Vegetables,111.4,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02413,PRD-EMDJNI,15.655,Low Fat,0.0215,Household,42.31,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02416,PRD-00CVW9,7.867,Regular,0.0785,Breads,80.51,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02417,PRD-2RFKBT,8.282,Low Fat,0.0,Household,145.23,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02418,PRD-6SVH6Q,7.451,Regular,0.0433,Baking Goods,186.5,STORE-HL7,23,Medium,Tier_3,Superstore
+row_02419,PRD-GHO6AC,7.609,Regular,0.0676,Snack Foods,91.36,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_02432,PRD-5FI6ER,,Regular,0.0997,canned,81.39,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02441,PRD-F88JRF,18.431,Regular,0.0649,FROZEN FOODS,146.24,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_02442,PRD-SUSDFO,5.213,Regular,0.0423,baking goods,160.83,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_02443,PRD-ZCF0TU,,Regular,0.1383,Canned,226.49,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02444,PRD-7FS31F,10.796,Regular,0.0579,Fruits and Vegetables,246.94,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_02445,PRD-XQS3H4,20.998,Regular,0.0455,Dairy,209.84,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_02448,PRD-CYUEID,9.89,Low Fat,0.1559,OTHERS,193.67,STORE-JOR,34,,Tier_3,Corner Shop
+row_02454,PRD-J51IFI,12.019,Low Fat,0.0211,Breads,161.55,STORE-HL7,23,Medium,Tier_3,Superstore
+row_02455,PRD-LIGYU6,19.273,Regular,0.1382,snack foods,249.78,STORE-HL7,23,Medium,Tier_3,Superstore
+row_02462,PRD-EWB9HJ,7.277,Low Fat,0.0609,HEALTH AND HYGIENE,181.95,STORE-JOR,34,,Tier_3,Corner Shop
+row_02469,PRD-S2II06,14.328,Low Fat,0.1184,Baking Goods,55.83,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_02478,PRD-4WYJ9D,,Low Fat,0.1262,fruits and vegetables,114.12,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_02482,PRD-1SZJIV,,Regular,0.0,Dairy,191.15,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02497,PRD-51TIWG,5.877,Regular,0.0649,baking goods,184.38,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_02500,PRD-L9B3N2,16.321,Low Fat,0.0442,STARCHY FOODS,37.46,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_02502,PRD-SR6GI0,,Low Fat,0.0354,Fruits and Vegetables,129.35,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02504,PRD-T6MJXK,18.986,Low Fat,0.023,dairy,98.97,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02508,PRD-JQMLJE,7.1,Low Fat,0.0368,Dairy,64.12,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_02512,PRD-I4MJMA,8.058,Low Fat,0.033,Household,255.75,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_02514,PRD-DK2043,20.088,Regular,0.0149,dairy,192.36,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02519,PRD-WEWPGV,15.008,Low Fat,0.1196,SNACK FOODS,225.74,STORE-HL7,23,Medium,Tier_3,Superstore
+row_02520,PRD-2YVL55,20.403,Regular,0.0563,Fruits and Vegetables,190.41,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_02522,PRD-02NFGI,,Low Fat,0.0613,canned,180.07,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_02523,PRD-F4D9ZQ,7.74,Low Fat,0.1296,meat,61.91,STORE-JOR,34,,Tier_3,Corner Shop
+row_02530,PRD-8S2XEM,12.259,Regular,0.0378,Fruits and Vegetables,111.73,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_02531,PRD-L1A5P6,,Regular,0.0778,Dairy,119.75,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_02534,PRD-10N229,,Low Fat,0.0147,Household,143.98,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02536,PRD-YOZV8C,,Low Fat,0.1727,household,172.31,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02537,PRD-8SEN50,,Low Fat,0.0944,others,105.34,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02547,PRD-8KE2WT,,Regular,0.047,FROZEN FOODS,129.47,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02558,PRD-X7CODR,19.57,Low Fat,0.0147,Household,105.91,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_02569,PRD-6O0HUH,19.948,Regular,0.0142,Fruits and Vegetables,230.93,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_02577,PRD-1WMMME,15.792,Low Fat,0.0162,OTHERS,141.47,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_02581,PRD-8KQGUY,7.869,Low Fat,0.0285,HOUSEHOLD,126.43,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02582,PRD-32WT59,19.298,Low Fat,0.0767,Baking Goods,175.24,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_02584,PRD-00EIUE,8.682,Regular,0.1169,Canned,181.08,STORE-JOR,34,,Tier_3,Corner Shop
+row_02606,PRD-IJOTIN,18.214,Low Fat,0.1048,Frozen Foods,148.3,STORE-JOR,34,,Tier_3,Corner Shop
+row_02607,PRD-2X720K,5.668,Regular,0.0538,FRUITS AND VEGETABLES,89.14,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02612,PRD-1L8SUG,16.927,Regular,0.0,STARCHY FOODS,64.66,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02613,PRD-6KBJ2C,15.694,Low Fat,0.0903,dairy,142.41,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_02621,PRD-F3G3T3,15.611,Low Fat,0.0314,Snack Foods,232.74,STORE-JOR,34,,Tier_3,Corner Shop
+row_02623,PRD-8NY9QX,16.859,Low Fat,0.1327,snack foods,145.02,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_02627,PRD-64V0WS,18.171,Low Fat,0.0732,SNACK FOODS,124.27,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02628,PRD-N5F3DX,16.93,Regular,0.016,snack foods,233.31,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_02632,PRD-4RQYWN,16.739,Low Fat,0.033,HOUSEHOLD,128.8,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_02646,PRD-W80O9D,17.704,Low Fat,0.0829,frozen foods,232.55,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02648,PRD-031L36,6.863,Regular,0.0,Baking Goods,97.24,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02650,PRD-JFPWZ6,11.81,Regular,0.0988,Snack Foods,128.31,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_02656,PRD-VQ553K,,Regular,0.1003,Fruits and Vegetables,170.04,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_02659,PRD-CDIT16,15.05,Low Fat,0.1247,Household,266.14,STORE-JOR,34,,Tier_3,Corner Shop
+row_02669,PRD-1WW0WD,14.28,Low Fat,0.0795,baking goods,80.39,STORE-HL7,23,Medium,Tier_3,Superstore
+row_02670,PRD-EYRXGB,20.114,Regular,0.0335,snack foods,62.76,STORE-JOR,34,,Tier_3,Corner Shop
+row_02672,PRD-AQA355,16.887,Low Fat,0.1103,Frozen Foods,41.05,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_02674,PRD-PF322F,,Low Fat,0.0691,breakfast,178.12,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02675,PRD-098QST,7.102,Low Fat,0.0221,Frozen Foods,268.56,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_02691,PRD-GH9N12,11.477,Regular,0.1008,baking goods,107.38,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02700,PRD-AY4H8W,8.861,Regular,0.1311,Breads,168.87,STORE-JOR,34,,Tier_3,Corner Shop
+row_02705,PRD-D4K7YJ,17.794,Regular,0.2167,Starchy Foods,180.98,STORE-JOR,34,,Tier_3,Corner Shop
+row_02709,PRD-P1LPTS,17.591,Low Fat,0.1156,HOUSEHOLD,252.3,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_02712,PRD-P6SDYY,19.837,Regular,0.0626,MEAT,169.47,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_02714,PRD-X36ZHB,,Regular,0.0245,Baking Goods,170.19,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02716,PRD-DJKDFR,17.585,Low Fat,0.014,Fruits and Vegetables,158.03,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_02726,PRD-48PPNK,18.99,Low Fat,0.0157,HEALTH AND HYGIENE,133.37,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_02738,PRD-VB2Y6O,14.831,Low Fat,0.0315,health and hygiene,191.67,STORE-JOR,34,,Tier_3,Corner Shop
+row_02757,PRD-GLFRI8,8.024,Low Fat,0.0341,Breakfast,235.9,STORE-JOR,34,,Tier_3,Corner Shop
+row_02758,PRD-69JGC3,,Regular,0.1762,Meat,146.7,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02768,PRD-IHO2KG,13.445,Regular,0.0831,frozen foods,256.1,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_02772,PRD-57XD6K,13.034,Low Fat,0.1679,Frozen Foods,46.63,STORE-HL7,23,Medium,Tier_3,Superstore
+row_02773,PRD-DK2043,20.355,Regular,0.0149,Dairy,191.95,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_02776,PRD-4OOJQX,9.029,Low Fat,0.0895,Snack Foods,168.14,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02778,PRD-28N1GP,13.837,Low Fat,0.0,BAKING GOODS,86.44,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02782,PRD-07NNDG,9.785,Regular,0.049,frozen foods,255.45,STORE-HL7,23,Medium,Tier_3,Superstore
+row_02786,PRD-NA7L0E,15.254,Regular,0.0272,CANNED,169.9,STORE-HL7,23,Medium,Tier_3,Superstore
+row_02796,PRD-KCDXSN,15.886,Low Fat,0.0783,FRUITS AND VEGETABLES,44.92,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_02797,PRD-22ZACS,17.486,Low Fat,0.0858,Breads,194.68,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_02800,PRD-FUDM7O,19.504,Regular,0.0229,fruits and vegetables,230.63,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02801,PRD-KYKE9F,13.192,Low Fat,0.0,Snack Foods,233.16,STORE-HL7,23,Medium,Tier_3,Superstore
+row_02807,PRD-93OBAJ,8.193,Regular,0.1106,Snack Foods,176.28,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02816,PRD-VFJJ50,,Regular,0.0605,fruits and vegetables,241.12,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02824,PRD-00EIUE,,Regular,0.0701,canned,190.9,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02833,PRD-IALDTG,5.5,Low Fat,0.1,baking goods,151.65,STORE-HL7,23,Medium,Tier_3,Superstore
+row_02834,PRD-Q7U1KU,13.451,Low Fat,0.0214,Dairy,119.39,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_02837,PRD-L11FC6,19.286,Regular,0.018,Meat,102.89,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_02839,PRD-0FOH3H,,Regular,0.0286,Dairy,147.44,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02846,PRD-E4XLA5,9.814,Regular,0.1329,BAKING GOODS,222.15,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_02848,PRD-55LOSM,7.577,Low Fat,0.0205,Snack Foods,253.01,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_02849,PRD-AZUAYN,10.208,Low Fat,0.0,Health and Hygiene,150.58,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_02852,PRD-7DMS2Z,,Low Fat,0.0305,Meat,63.3,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02854,PRD-YHREVB,,Low Fat,0.088,health and hygiene,161.08,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_02855,PRD-KYKE9F,13.553,Low Fat,0.0391,SNACK FOODS,231.18,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_02858,PRD-LIGYU6,18.429,Regular,0.1443,Snack Foods,252.39,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_02863,PRD-I4MJMA,7.792,Low Fat,0.0314,Household,265.05,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_02875,PRD-OGP0MY,,Regular,0.0507,Baking Goods,77.98,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02879,PRD-4W2O6O,6.884,Low Fat,0.0473,HOUSEHOLD,158.49,STORE-JOR,34,,Tier_3,Corner Shop
+row_02883,PRD-JFXKHA,20.025,Regular,0.1211,Snack Foods,96.67,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_02884,PRD-J5S6R0,18.043,Regular,0.0452,Dairy,144.86,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02885,PRD-9YFZQL,,Low Fat,0.1809,Snack Foods,142.39,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_02886,PRD-639BCP,20.338,Regular,0.0605,baking goods,86.58,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_02890,PRD-3U0H8W,,Low Fat,0.0,Frozen Foods,191.4,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02892,PRD-LRTVWA,,Low Fat,0.0535,Dairy,195.38,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02901,PRD-RACGN7,11.496,Low Fat,0.0575,HEALTH AND HYGIENE,82.54,STORE-HL7,23,Medium,Tier_3,Superstore
+row_02903,PRD-K1Z5BY,11.008,Low Fat,0.0461,snack foods,171.97,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_02906,PRD-L7ZBSF,20.165,Regular,0.1088,Fruits and Vegetables,192.24,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_02908,PRD-IQ9LVF,,Regular,0.0833,Baking Goods,46.84,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02909,PRD-6EGA7N,16.731,Low Fat,0.0991,canned,180.24,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_02919,PRD-0QD58X,,Regular,0.0167,BREADS,47.01,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02925,PRD-OGHEXC,10.917,Low Fat,0.0534,health and hygiene,103.92,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_02929,PRD-3D9PH3,19.312,Low Fat,0.134,Hard Drinks,161.69,STORE-HL7,23,Medium,Tier_3,Superstore
+row_02934,PRD-X5SMJY,,Low Fat,0.035,Household,205.83,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02939,PRD-0AB7R8,13.206,Regular,0.162,fruits and vegetables,169.78,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02940,PRD-PNWDDS,,Low Fat,0.1154,Dairy,44.0,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02943,PRD-1FO2WB,8.567,Regular,0.0249,frozen foods,112.63,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_02951,PRD-NAMSQE,,Regular,0.0,Baking Goods,74.65,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02953,PRD-MRKSQJ,6.34,Regular,0.1265,SNACK FOODS,94.48,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_02957,PRD-3HGG9C,20.528,Low Fat,0.1,Household,186.07,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_02962,PRD-FVHC3D,17.954,Low Fat,0.0728,Seafood,34.13,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_02964,PRD-A0R0L9,,Regular,0.0364,FROZEN FOODS,162.62,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02965,PRD-28T7A9,14.073,Low Fat,0.0635,DAIRY,157.87,STORE-HL7,23,Medium,Tier_3,Superstore
+row_02968,PRD-2RL15F,10.171,Low Fat,0.1107,Hard Drinks,112.01,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_02977,PRD-O84W6T,15.765,Low Fat,0.0619,Snack Foods,125.01,STORE-JOR,34,,Tier_3,Corner Shop
+row_02980,PRD-3VXDO3,,Regular,0.0857,FRUITS AND VEGETABLES,118.6,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_02997,PRD-F88JRF,,Regular,0.063,Frozen Foods,143.26,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_03001,PRD-GJ1QQ8,20.322,Low Fat,0.0856,baking goods,117.69,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_03003,PRD-0DZ6XP,,Low Fat,0.1008,Fruits and Vegetables,91.87,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_03004,PRD-5YE8T5,14.653,Regular,0.0363,fruits and vegetables,162.17,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_03006,PRD-YVZMZC,8.386,Low Fat,0.1053,Household,106.06,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_03019,PRD-4XH4FJ,,Regular,0.0916,FROZEN FOODS,190.74,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_03025,PRD-1XRZN0,,Low Fat,0.0206,Canned,216.88,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_03026,PRD-N244KO,20.08,Low Fat,0.0354,Snack Foods,216.84,STORE-HL7,23,Medium,Tier_3,Superstore
+row_03039,PRD-JN3LYX,14.397,Low Fat,0.1275,dairy,126.75,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_03046,PRD-ZXY5TE,12.675,Low Fat,0.0405,HOUSEHOLD,105.68,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_03057,PRD-N8W9UR,6.859,Low Fat,0.1507,Canned,102.93,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_03059,PRD-MRKSQJ,6.314,Regular,0.1274,Snack Foods,96.04,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_03074,PRD-B0BAVM,15.402,Low Fat,0.0337,Household,121.38,STORE-HL7,23,Medium,Tier_3,Superstore
+row_03082,PRD-P3WJRM,13.178,Low Fat,0.0327,FRUITS AND VEGETABLES,199.97,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_03091,PRD-I1NNSM,10.577,Regular,0.0274,Baking Goods,145.19,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_03092,PRD-L06G9E,15.806,Low Fat,0.0783,SNACK FOODS,89.76,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_03100,PRD-HQ57UY,15.555,Regular,0.1049,Frozen Foods,39.29,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_03103,PRD-AECEW6,,Regular,0.0157,Meat,70.73,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_03104,PRD-AK5AGE,11.035,Low Fat,0.0428,Health and Hygiene,184.39,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_03113,PRD-M3FQUK,9.272,Regular,0.0218,SNACK FOODS,158.92,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_03125,PRD-AANYGU,13.222,Low Fat,0.0341,SNACK FOODS,167.9,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_03126,PRD-O7V0VU,5.217,Low Fat,0.0392,Canned,82.35,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_03131,PRD-QDXOEA,7.426,Low Fat,0.028,Snack Foods,105.71,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_03132,PRD-UOG5JV,,Low Fat,0.0261,SNACK FOODS,213.08,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_03147,PRD-S0LI0X,9.977,Regular,0.0184,Starchy Foods,246.21,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_03159,PRD-CP4E30,5.922,Low Fat,0.0218,DAIRY,179.22,STORE-HL7,23,Medium,Tier_3,Superstore
+row_03161,PRD-MHJ45L,17.116,Low Fat,0.0,FROZEN FOODS,74.26,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_03165,PRD-OFJA5N,5.28,Regular,0.0545,CANNED,198.15,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_03169,PRD-NI9NWR,11.851,Low Fat,0.079,health and hygiene,37.55,STORE-HL7,23,Medium,Tier_3,Superstore
+row_03175,PRD-GJ1QQ8,21.096,Low Fat,0.0834,BAKING GOODS,121.54,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_03184,PRD-QP2PX3,,Regular,0.0393,DAIRY,99.78,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_03187,PRD-F7NY03,16.566,Regular,0.0536,FROZEN FOODS,115.73,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_03192,PRD-6C3BE3,20.595,Low Fat,0.0376,Household,150.73,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_03196,PRD-PCHMB2,13.933,Regular,0.0303,Canned,98.99,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_03202,PRD-M9RIT8,8.003,Low Fat,0.0163,Snack Foods,164.93,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_03207,PRD-QNVF2X,14.755,Regular,0.019,dairy,256.52,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_03208,PRD-WDSS7E,,Regular,0.0421,frozen foods,46.25,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_03212,PRD-YP2KNW,11.792,Regular,0.058,Fruits and Vegetables,167.86,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_03218,PRD-G05TPN,19.304,Low Fat,0.0805,Household,198.55,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_03223,PRD-FY9Z9U,20.199,Regular,0.1005,Canned,104.72,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_03226,PRD-Y7CQKD,14.139,Regular,0.063,FRUITS AND VEGETABLES,73.94,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_03229,PRD-0YF9P7,,Low Fat,0.0,Fruits and Vegetables,54.97,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_03230,PRD-9P452B,8.82,Low Fat,0.0783,hard drinks,227.4,STORE-HL7,23,Medium,Tier_3,Superstore
+row_03233,PRD-K15UL9,8.831,Low Fat,0.1121,Frozen Foods,95.15,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_03236,PRD-MICMBP,7.731,Regular,0.0841,Frozen Foods,32.86,STORE-HL7,23,Medium,Tier_3,Superstore
+row_03239,PRD-CUZREN,13.883,Low Fat,0.0946,Dairy,246.89,STORE-JOR,34,,Tier_3,Corner Shop
+row_03246,PRD-N3VBIA,20.193,Low Fat,0.0603,Household,240.76,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_03253,PRD-6NJ4OG,7.977,Low Fat,0.1125,Snack Foods,154.37,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_03259,PRD-DZQ5YW,,Regular,0.0466,Snack Foods,97.55,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_03262,PRD-YUXGFA,11.387,Regular,0.0386,snack foods,108.09,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_03267,PRD-XWMUWB,19.695,Low Fat,0.0616,Snack Foods,181.29,STORE-JOR,34,,Tier_3,Corner Shop
+row_03273,PRD-2YVL55,,Regular,0.0922,FRUITS AND VEGETABLES,190.02,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_03282,PRD-V0PRKG,7.78,Low Fat,0.1184,soft drinks,236.6,STORE-JOR,34,,Tier_3,Corner Shop
+row_03283,PRD-2DT1EG,,Low Fat,0.0,HEALTH AND HYGIENE,123.31,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_03286,PRD-WKI85L,,Low Fat,0.0099,Snack Foods,63.51,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_03288,PRD-EWB9HJ,7.45,Low Fat,0.0357,Health and Hygiene,171.71,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_03290,PRD-DYYVDQ,,Regular,0.0,Canned,151.3,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_03292,PRD-ZHWW3L,,Regular,0.0195,MEAT,97.26,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_03295,PRD-444NK0,5.097,Regular,0.1037,Meat,125.55,STORE-JOR,34,,Tier_3,Corner Shop
+row_03305,PRD-302FAP,13.66,Low Fat,0.0496,fruits and vegetables,150.95,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_03306,PRD-45BA89,10.769,Regular,0.0895,frozen foods,154.35,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_03320,PRD-O90S1M,5.137,Regular,0.0781,BREADS,232.2,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_03324,PRD-MY5ZPJ,,Low Fat,0.0627,HARD DRINKS,119.36,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_03327,PRD-7N4YTU,17.893,Low Fat,0.078,Snack Foods,256.65,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_03329,PRD-UPZ5JR,,Regular,0.1386,Baking Goods,199.41,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_03338,PRD-9LB7L5,17.922,Regular,0.1674,dairy,155.11,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_03344,PRD-BFDNHH,8.282,Regular,0.0892,Snack Foods,149.59,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_03350,PRD-AF3WE8,8.512,Regular,0.1326,Frozen Foods,74.2,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_03351,PRD-MN8Z1H,,Low Fat,0.0,health and hygiene,154.11,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_03354,PRD-KDGVNM,6.834,Low Fat,0.0555,Canned,148.05,STORE-HL7,23,Medium,Tier_3,Superstore
+row_03362,PRD-ULF5VL,5.69,Regular,0.0706,Snack Foods,265.05,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_03373,PRD-0CHYKM,9.092,Low Fat,0.0668,Health and Hygiene,262.63,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_03374,PRD-7SGMSO,19.908,Low Fat,0.0388,hard drinks,127.11,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_03380,PRD-P2S2O8,,Low Fat,0.0438,fruits and vegetables,54.62,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_03382,PRD-9SEY62,17.561,Low Fat,0.0233,Fruits and Vegetables,97.82,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_03386,PRD-LF7XE7,15.68,Low Fat,0.0,Fruits and Vegetables,112.85,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_03388,PRD-F7NY03,16.804,Regular,0.051,FROZEN FOODS,112.75,STORE-HL7,23,Medium,Tier_3,Superstore
+row_03394,PRD-0JL6QK,18.705,Low Fat,0.1221,Snack Foods,107.76,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_03399,PRD-Y0VDVE,16.054,Low Fat,0.0436,dairy,237.29,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_03402,PRD-GBYJDD,17.308,Low Fat,0.015,fruits and vegetables,180.63,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_03408,PRD-N7XY43,16.283,Low Fat,0.0821,Canned,92.28,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_03431,PRD-K3I8BZ,11.626,Low Fat,0.1115,Soft Drinks,181.86,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_03432,PRD-AQ8H3X,11.121,Low Fat,0.0677,Fruits and Vegetables,194.04,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_03440,PRD-NMRS5Y,8.393,Low Fat,0.0323,Baking Goods,93.64,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_03444,PRD-UZET1P,13.345,Low Fat,0.0374,Fruits and Vegetables,176.78,STORE-HL7,23,Medium,Tier_3,Superstore
+row_03448,PRD-Z45QF8,9.617,Low Fat,0.0493,snack foods,263.04,STORE-HL7,23,Medium,Tier_3,Superstore
+row_03454,PRD-3H7I5X,15.23,Regular,0.0973,Fruits and Vegetables,144.63,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_03458,PRD-6YLBXP,16.992,Regular,0.1414,CANNED,259.71,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_03459,PRD-LZBZ98,18.69,Low Fat,0.1561,Health and Hygiene,43.87,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_03464,PRD-4OOJQX,9.19,Low Fat,0.1393,snack foods,168.23,STORE-JOR,34,,Tier_3,Corner Shop
+row_03475,PRD-5094DF,7.089,Low Fat,0.0172,FROZEN FOODS,163.79,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_03485,PRD-EGC2DP,7.043,Low Fat,0.0571,Snack Foods,212.18,STORE-HL7,23,Medium,Tier_3,Superstore
+row_03489,PRD-CU4YYJ,15.637,Low Fat,0.08,CANNED,38.4,STORE-HL7,23,Medium,Tier_3,Superstore
+row_03490,PRD-FIYLHL,6.487,Regular,0.029,Snack Foods,181.98,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_03493,PRD-K6I2KL,9.673,Regular,0.0137,Snack Foods,185.46,STORE-HL7,23,Medium,Tier_3,Superstore
+row_03495,PRD-OF2TX0,7.529,Low Fat,0.1073,Snack Foods,113.81,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_03511,PRD-TKECTS,17.93,Low Fat,0.0742,Snack Foods,211.92,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_03517,PRD-6KHXCY,11.979,Regular,0.0586,meat,148.96,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_03520,PRD-NSLK6R,17.453,Regular,0.07,BAKING GOODS,192.2,STORE-HL7,23,Medium,Tier_3,Superstore
+row_03522,PRD-Y6X573,5.99,Low Fat,0.0848,OTHERS,143.66,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_03526,PRD-7B1U9E,,Low Fat,0.0278,household,169.92,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_03529,PRD-UVYP1N,,Regular,0.1695,snack foods,157.11,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_03532,PRD-OI1003,16.135,Low Fat,0.028,HOUSEHOLD,178.54,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_03537,PRD-0V4GIA,9.356,Low Fat,0.1116,Snack Foods,182.68,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_03539,PRD-0CHYKM,8.892,Low Fat,0.0669,Health and Hygiene,265.88,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_03540,PRD-JJ4AL0,19.114,Low Fat,0.0415,FROZEN FOODS,110.79,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_03547,PRD-679O2X,20.779,Low Fat,0.0502,Snack Foods,195.02,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_03550,PRD-3S195J,4.739,Low Fat,0.1226,Hard Drinks,174.71,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_03551,PRD-J5S6R0,17.958,Regular,0.0753,DAIRY,145.44,STORE-JOR,34,,Tier_3,Corner Shop
+row_03557,PRD-6I2KOE,19.767,Low Fat,0.0417,Snack Foods,161.13,STORE-HL7,23,Medium,Tier_3,Superstore
+row_03560,PRD-WKDRX0,15.735,Regular,0.0622,Meat,46.42,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_03561,PRD-A0BO8W,8.802,Regular,0.041,Baking Goods,208.69,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_03562,PRD-JDP69D,18.646,Low Fat,0.1612,Household,195.25,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_03566,PRD-UBXCU2,,Low Fat,0.0186,household,169.78,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_03567,PRD-ZKHI80,13.023,Low Fat,0.0235,household,172.43,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_03572,PRD-M58TL5,7.307,Low Fat,0.055,Frozen Foods,56.94,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_03583,PRD-R2LIOG,9.48,Low Fat,0.0985,Dairy,151.98,STORE-JOR,34,,Tier_3,Corner Shop
+row_03584,PRD-8A170X,18.126,Low Fat,0.0396,frozen foods,244.46,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_03593,PRD-LRTVWA,7.66,Low Fat,0.057,Dairy,200.42,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_03604,PRD-7N4YTU,,Low Fat,0.0786,snack foods,263.4,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_03620,PRD-U438R9,10.915,Regular,0.036,Frozen Foods,180.41,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_03631,PRD-BLQGBI,7.55,Low Fat,0.0723,Household,153.44,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_03643,PRD-X9G7HS,10.077,Low Fat,0.1299,CANNED,114.07,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_03647,PRD-NHLLA9,13.714,Low Fat,0.0773,health and hygiene,57.81,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_03648,PRD-1UQBFO,15.19,Low Fat,0.065,Hard Drinks,46.08,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_03649,PRD-HYW1UI,8.649,Regular,0.0,dairy,43.42,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_03658,PRD-18NL4I,,Regular,0.0392,FRUITS AND VEGETABLES,123.3,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_03664,PRD-BXIITA,12.046,Low Fat,0.0,Others,126.9,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_03673,PRD-57923T,12.061,Regular,0.1035,dairy,225.83,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_03676,PRD-J0G50R,19.888,Low Fat,0.0627,CANNED,89.89,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_03680,PRD-FF5E8I,16.011,Low Fat,0.0363,soft drinks,183.24,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_03682,PRD-SCRO8S,15.312,Regular,0.1037,fruits and vegetables,42.11,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_03687,PRD-7MFP05,14.014,Low Fat,0.0373,soft drinks,40.39,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_03694,PRD-X497W1,10.292,Low Fat,0.0485,Hard Drinks,160.54,STORE-HL7,23,Medium,Tier_3,Superstore
+row_03708,PRD-O15RRZ,12.901,Low Fat,0.0998,Frozen Foods,37.37,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_03714,PRD-TUF93A,11.315,Low Fat,0.1086,Fruits and Vegetables,188.24,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_03715,PRD-H6TX8K,6.424,Low Fat,0.0152,HOUSEHOLD,140.54,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_03718,PRD-9DBWQW,19.145,Low Fat,0.0433,HOUSEHOLD,91.13,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_03719,PRD-WKI85L,13.291,Low Fat,0.0101,Snack Foods,66.79,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_03720,PRD-M80O2R,7.231,Low Fat,0.0821,Soft Drinks,195.95,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_03723,PRD-YKZ3FQ,15.392,Low Fat,0.1145,health and hygiene,126.39,STORE-JOR,34,,Tier_3,Corner Shop
+row_03727,PRD-NE9NNO,9.24,Low Fat,0.0092,Fruits and Vegetables,120.68,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_03732,PRD-RZXHM8,10.985,Regular,0.0,SNACK FOODS,160.81,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_03734,PRD-J10FFD,8.234,Low Fat,0.0131,household,138.92,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_03736,PRD-1XRZN0,15.182,Low Fat,0.0338,Canned,211.28,STORE-JOR,34,,Tier_3,Corner Shop
+row_03742,PRD-88O5OR,12.383,Low Fat,0.0602,Soft Drinks,160.89,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_03744,PRD-51LIY8,11.406,Low Fat,0.0385,dairy,57.38,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_03750,PRD-GOAVWS,11.773,Low Fat,0.0454,Snack Foods,121.01,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_03755,PRD-32R5MU,7.338,Low Fat,0.0,Snack Foods,153.62,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_03759,PRD-IEIQO7,,Low Fat,0.1132,OTHERS,55.09,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_03768,PRD-93OBAJ,8.473,Regular,0.1202,SNACK FOODS,180.32,STORE-HL7,23,Medium,Tier_3,Superstore
+row_03773,PRD-BGLSH8,20.511,Low Fat,0.0331,Household,40.04,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_03775,PRD-07NNDG,10.163,Regular,0.0496,frozen foods,266.7,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_03779,PRD-V1VXVU,5.359,Low Fat,0.0901,Health and Hygiene,101.31,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_03783,PRD-9QWB0H,6.556,Low Fat,0.0255,Breads,100.67,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_03787,PRD-MWWJPG,13.04,Low Fat,0.1466,canned,79.92,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_03789,PRD-12310X,8.184,Low Fat,0.0151,Health and Hygiene,188.03,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_03804,PRD-3IZLX3,17.522,Regular,0.143,FRUITS AND VEGETABLES,87.3,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_03811,PRD-S6KFRX,19.207,Low Fat,0.1863,Household,175.56,STORE-HL7,23,Medium,Tier_3,Superstore
+row_03824,PRD-Z16UFZ,18.354,Low Fat,0.0157,Snack Foods,154.49,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_03829,PRD-533CFS,21.674,Low Fat,0.024,HOUSEHOLD,144.66,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_03831,PRD-3SQ3DG,18.944,Low Fat,0.0679,Snack Foods,132.95,STORE-HL7,23,Medium,Tier_3,Superstore
+row_03834,PRD-L9E9NI,8.493,Regular,0.0595,Baking Goods,141.03,STORE-JOR,34,,Tier_3,Corner Shop
+row_03836,PRD-Q4NM8R,8.744,Low Fat,0.1387,Frozen Foods,62.13,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_03839,PRD-MMSLOQ,12.439,Low Fat,0.0668,Others,254.96,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_03847,PRD-JQPKAH,8.618,Low Fat,0.0725,Household,92.34,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_03849,PRD-F1RCAV,8.767,Low Fat,0.0839,Hard Drinks,155.49,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_03854,PRD-IMV03J,14.654,Regular,0.0704,Snack Foods,265.59,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_03858,PRD-34LIE3,15.825,Low Fat,0.1302,Canned,98.65,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_03859,PRD-2G73AJ,,Low Fat,0.0164,Dairy,256.62,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_03866,PRD-F13TKM,20.86,Low Fat,0.1191,Household,72.9,STORE-JOR,34,,Tier_3,Corner Shop
+row_03867,PRD-CVE6PR,,Low Fat,0.0733,soft drinks,95.73,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_03871,PRD-6HL8IZ,5.768,Regular,0.0651,fruits and vegetables,263.55,STORE-JOR,34,,Tier_3,Corner Shop
+row_03876,PRD-C5OAOO,,Low Fat,0.2075,Others,142.03,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_03888,PRD-IVLU4E,16.114,Low Fat,0.0137,OTHERS,104.29,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_03891,PRD-B9OF3M,,Low Fat,0.0,Fruits and Vegetables,255.64,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_03903,PRD-HVVZBL,19.286,Regular,0.0708,DAIRY,116.74,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_03917,PRD-PRFP9S,14.311,Low Fat,0.0258,frozen foods,77.73,STORE-HL7,23,Medium,Tier_3,Superstore
+row_03920,PRD-5BFZ63,19.337,Low Fat,0.148,canned,170.52,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_03925,PRD-MWWJPG,13.099,Low Fat,0.1492,Canned,78.67,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_03926,PRD-UC3160,,Regular,0.1392,Meat,112.68,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_03931,PRD-ZGIUDT,15.04,Low Fat,0.093,health and hygiene,112.5,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_03933,PRD-4I42AF,7.397,Low Fat,0.1273,starchy foods,208.84,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_03934,PRD-VRURQT,16.386,Regular,0.0636,Dairy,179.13,STORE-HL7,23,Medium,Tier_3,Superstore
+row_03935,PRD-KYAFJ4,6.765,Low Fat,0.0867,fruits and vegetables,132.32,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_03938,PRD-IYIJE7,,Low Fat,0.0921,Snack Foods,211.87,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_03940,PRD-XBXTLN,21.111,Low Fat,0.1377,Starchy Foods,88.8,STORE-HL7,23,Medium,Tier_3,Superstore
+row_03942,PRD-9USY38,6.884,Low Fat,0.0937,SNACK FOODS,117.02,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_03945,PRD-9ESEQG,,Regular,0.1787,meat,97.95,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_03946,PRD-X36ZHB,10.495,Regular,0.0255,BAKING GOODS,171.71,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_03949,PRD-M9YX0J,,Regular,0.075,Snack Foods,32.08,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_03960,PRD-W3QN3T,15.974,Low Fat,0.0397,SNACK FOODS,136.4,STORE-HL7,23,Medium,Tier_3,Superstore
+row_03962,PRD-5FI6ER,9.445,Regular,0.1063,Canned,80.26,STORE-HL7,23,Medium,Tier_3,Superstore
+row_03965,PRD-GSRI2A,,Regular,0.1973,Baking Goods,118.71,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_03972,PRD-6I2KOE,19.678,Low Fat,0.039,Snack Foods,165.66,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_03982,PRD-HP5E7A,10.539,Regular,0.0848,snack foods,235.41,STORE-HL7,23,Medium,Tier_3,Superstore
+row_03987,PRD-OW7SFQ,,Low Fat,0.0,Fruits and Vegetables,228.53,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_03991,PRD-YHREVB,,Low Fat,0.0,HEALTH AND HYGIENE,164.73,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_03992,PRD-AECEW6,16.739,Regular,0.0089,MEAT,70.33,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_03996,PRD-8449K6,17.186,Regular,0.0764,Fruits and Vegetables,211.86,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_03998,PRD-BLQGBI,7.294,Low Fat,0.0732,Household,159.64,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_04009,PRD-VP8OWT,20.795,Low Fat,0.0299,Household,142.66,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_04012,PRD-K054NZ,11.875,Low Fat,0.0,Soft Drinks,146.24,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_04024,PRD-ZVRERW,17.632,Low Fat,0.035,Dairy,93.57,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_04029,PRD-7CG8W1,19.587,Regular,0.0305,CANNED,85.67,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_04031,PRD-F8MDRY,,Regular,0.022,DAIRY,252.67,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_04033,PRD-5J92DM,,Regular,0.2896,frozen foods,188.65,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_04040,PRD-X7CODR,20.296,Low Fat,0.0146,household,100.11,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_04054,PRD-RVRRGQ,5.704,Regular,0.0752,Dairy,116.05,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_04055,PRD-ZXY5TE,12.814,Low Fat,0.0428,household,110.55,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_04065,PRD-PX52L4,6.737,Regular,0.1333,BREAKFAST,93.77,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_04066,PRD-25KFBO,19.656,Regular,0.0414,Fruits and Vegetables,146.96,STORE-JOR,34,,Tier_3,Corner Shop
+row_04077,PRD-75E78H,,Low Fat,0.0302,household,180.5,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_04078,PRD-XH6DLO,18.153,Low Fat,0.1223,Frozen Foods,123.28,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_04081,PRD-HQ57UY,,Regular,0.2002,frozen foods,38.04,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_04084,PRD-4GYSMJ,8.686,Low Fat,0.1006,Household,211.32,STORE-HL7,23,Medium,Tier_3,Superstore
+row_04092,PRD-6Z6CCC,8.768,Low Fat,0.1224,Canned,92.58,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_04094,PRD-FIYLHL,6.614,Regular,0.0,snack foods,184.05,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_04101,PRD-SQ8X3A,17.202,Regular,0.0645,Baking Goods,88.93,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_04107,PRD-MAA7H7,14.923,Regular,0.0969,SNACK FOODS,53.07,STORE-HL7,23,Medium,Tier_3,Superstore
+row_04112,PRD-C71O4Y,11.304,Low Fat,0.18,Fruits and Vegetables,130.23,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_04120,PRD-45H02C,12.963,Regular,0.0296,canned,61.68,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_04122,PRD-W9XHRO,19.377,Regular,0.0056,starchy foods,226.46,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_04127,PRD-U4W9RS,14.494,Low Fat,0.0922,Baking Goods,141.16,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_04137,PRD-ZIFT9Y,15.695,Regular,0.0269,Fruits and Vegetables,99.46,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_04138,PRD-22ZACS,17.363,Low Fat,0.0,BREADS,194.37,STORE-JOR,34,,Tier_3,Corner Shop
+row_04139,PRD-VG0CH2,12.384,Regular,0.0616,frozen foods,105.23,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_04145,PRD-MGCY57,6.687,Regular,0.0,Fruits and Vegetables,227.01,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_04147,PRD-DZVGPM,20.438,Low Fat,0.0204,Soft Drinks,149.58,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_04154,PRD-PTOMJB,7.762,Low Fat,0.056,Soft Drinks,172.12,STORE-JOR,34,,Tier_3,Corner Shop
+row_04158,PRD-BXIITA,,Low Fat,0.0068,others,122.41,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_04160,PRD-9RIGPP,,Low Fat,0.0491,Fruits and Vegetables,38.55,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_04165,PRD-F6KJKV,,Low Fat,0.025,starchy foods,118.75,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_04166,PRD-TFIUHP,12.79,Low Fat,0.0771,Fruits and Vegetables,94.19,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_04175,PRD-58CEPS,,Low Fat,0.0641,FRUITS AND VEGETABLES,186.88,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_04176,PRD-QE536X,7.412,Low Fat,0.0938,Fruits and Vegetables,94.32,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_04177,PRD-J5B4CP,10.926,Low Fat,0.1038,Breads,122.51,STORE-HL7,23,Medium,Tier_3,Superstore
+row_04178,PRD-G8F1CB,19.349,Regular,0.04,Soft Drinks,168.1,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_04179,PRD-KTGBTY,11.986,Low Fat,0.0203,Hard Drinks,40.5,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_04186,PRD-Y8VYIF,19.185,Low Fat,0.0439,Canned,254.18,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_04187,PRD-HMIP5B,10.399,Regular,0.0,FRUITS AND VEGETABLES,114.56,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_04189,PRD-COMXJF,,Low Fat,0.302,BAKING GOODS,128.66,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_04193,PRD-06GUU9,12.894,Low Fat,0.0078,household,182.52,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_04200,PRD-1SZJIV,,Regular,0.2631,DAIRY,199.76,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_04207,PRD-L9B3N2,15.718,Low Fat,0.0421,starchy foods,37.39,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_04226,PRD-LJKPHC,18.798,Regular,0.0903,fruits and vegetables,88.65,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_04228,PRD-P3WJRM,13.088,Low Fat,0.0342,Fruits and Vegetables,202.16,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_04229,PRD-71SD9E,13.944,Low Fat,0.0702,Snack Foods,200.16,STORE-HL7,23,Medium,Tier_3,Superstore
+row_04233,PRD-DZVGPM,,Low Fat,0.0215,SOFT DRINKS,153.54,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_04234,PRD-31GVB3,,Low Fat,0.0134,HOUSEHOLD,214.13,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_04242,PRD-Y7S361,,Low Fat,0.0581,starchy foods,225.46,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_04245,PRD-X7Z97Z,8.86,Low Fat,0.0947,household,54.4,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_04255,PRD-FZTVOV,8.835,Low Fat,0.0728,SNACK FOODS,208.58,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_04259,PRD-OS7E3D,,Low Fat,0.0282,Household,46.3,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_04261,PRD-6HL8IZ,5.665,Regular,0.0373,fruits and vegetables,265.22,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_04263,PRD-Q51250,,Low Fat,0.176,HOUSEHOLD,211.5,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_04268,PRD-MGCY57,,Regular,0.0875,Fruits and Vegetables,228.44,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_04270,PRD-I4MJMA,8.062,Low Fat,0.0307,Household,264.5,STORE-HL7,23,Medium,Tier_3,Superstore
+row_04272,PRD-0FOH3H,13.89,Regular,0.0289,DAIRY,141.29,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_04273,PRD-E42X6G,11.173,Regular,0.0612,dairy,90.35,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_04278,PRD-D5KXKQ,20.352,Low Fat,0.0527,Seafood,202.67,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_04281,PRD-EDLQ9E,7.822,Regular,0.0316,Breads,240.79,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_04285,PRD-BLQGBI,7.313,Low Fat,0.0748,household,157.3,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_04293,PRD-HCAZ89,13.809,Regular,0.0175,Snack Foods,77.41,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_04301,PRD-R2LIOG,,Low Fat,0.1124,dairy,153.04,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_04306,PRD-4W0VUG,,Low Fat,0.0923,HARD DRINKS,77.74,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_04315,PRD-20AP4V,19.826,Low Fat,0.0236,Household,107.09,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_04316,PRD-CZ2O8N,15.249,Regular,0.0409,Baking Goods,83.39,STORE-JOR,34,,Tier_3,Corner Shop
+row_04319,PRD-CPCMJT,,Low Fat,0.0935,household,256.57,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_04320,PRD-9C3FUQ,15.715,Low Fat,0.1369,hard drinks,251.28,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_04333,PRD-BV1R7E,8.863,Regular,0.1433,frozen foods,161.89,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_04335,PRD-N3R81D,17.95,Regular,0.0919,frozen foods,185.84,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_04349,PRD-P45GAD,8.487,Low Fat,0.1208,HOUSEHOLD,97.4,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_04358,PRD-5FDHJK,7.118,Low Fat,0.079,SOFT DRINKS,91.3,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_04359,PRD-41CMGC,,Low Fat,0.0723,fruits and vegetables,226.47,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_04360,PRD-4TK3B3,8.745,Regular,0.0592,FROZEN FOODS,130.54,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_04365,PRD-52DNR9,,Regular,0.117,Soft Drinks,122.33,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_04370,PRD-RY40KH,12.598,Low Fat,0.0304,Fruits and Vegetables,105.66,STORE-HL7,23,Medium,Tier_3,Superstore
+row_04371,PRD-EVYY91,13.954,Low Fat,0.0171,health and hygiene,107.85,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_04372,PRD-4IHRV7,12.353,Regular,0.0427,meat,185.54,STORE-HL7,23,Medium,Tier_3,Superstore
+row_04373,PRD-JDP69D,,Low Fat,0.2853,Household,189.77,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_04374,PRD-YZSJHT,9.529,Regular,0.0224,breads,101.57,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_04385,PRD-JWTV3N,10.63,Low Fat,0.0522,FROZEN FOODS,90.38,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_04386,PRD-EMI6QW,11.883,Low Fat,0.0,Household,120.78,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_04388,PRD-5QVWC9,6.215,Low Fat,0.1133,household,258.65,STORE-HL7,23,Medium,Tier_3,Superstore
+row_04395,PRD-C5OAOO,7.248,Low Fat,0.1183,Others,140.38,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_04398,PRD-KFRZWZ,12.331,Low Fat,0.0666,MEAT,52.09,STORE-HL7,23,Medium,Tier_3,Superstore
+row_04400,PRD-IEPXXY,,Low Fat,0.0169,frozen foods,124.54,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_04413,PRD-UUTRXG,12.889,Low Fat,0.0219,Fruits and Vegetables,177.56,STORE-HL7,23,Medium,Tier_3,Superstore
+row_04416,PRD-F075N4,15.537,Regular,0.0659,SNACK FOODS,174.67,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_04419,PRD-OKCXPA,10.048,Low Fat,0.0332,Canned,50.43,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_04438,PRD-8S2XEM,,Regular,0.0383,FRUITS AND VEGETABLES,108.82,STORE-HL7,23,Medium,Tier_3,Superstore
+row_04441,PRD-NMIC1F,11.568,Regular,0.0461,Snack Foods,103.51,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_04454,PRD-HBZ5J3,11.333,Low Fat,0.0586,Baking Goods,107.8,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_04470,PRD-8LXUM3,7.187,Low Fat,0.0583,Dairy,142.14,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_04471,PRD-NBDVPI,17.581,Regular,0.0578,fruits and vegetables,220.59,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_04483,PRD-WV98Y3,,Low Fat,0.1353,snack foods,120.49,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_04490,PRD-F727XE,18.68,Low Fat,0.0,Snack Foods,120.84,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_04498,PRD-0LMI8X,7.674,Regular,0.0561,Canned,122.7,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_04522,PRD-YZSJHT,9.849,Regular,0.0229,BREADS,104.92,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_04529,PRD-U0COJB,9.125,Low Fat,0.0679,frozen foods,188.99,STORE-HL7,23,Medium,Tier_3,Superstore
+row_04537,PRD-WT29FN,18.321,Low Fat,0.0088,Baking Goods,82.76,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_04538,PRD-RLM5MP,20.829,Regular,0.0925,Breads,106.32,STORE-JOR,34,,Tier_3,Corner Shop
+row_04539,PRD-LV9PLM,,Low Fat,0.1093,Health and Hygiene,269.85,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_04540,PRD-7SGMSO,19.381,Low Fat,0.0,hard drinks,123.15,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_04541,PRD-LK2C0X,12.32,Low Fat,0.0155,Frozen Foods,206.47,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_04542,PRD-C1HY2U,19.612,Low Fat,0.1212,Dairy,112.1,STORE-JOR,34,,Tier_3,Corner Shop
+row_04545,PRD-G7JPM7,6.685,Regular,0.0106,Snack Foods,54.94,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_04550,PRD-ZBM21Y,20.777,Low Fat,0.0208,BAKING GOODS,155.08,STORE-HL7,23,Medium,Tier_3,Superstore
+row_04556,PRD-V2V1IT,9.916,Low Fat,0.0788,frozen foods,141.25,STORE-JOR,34,,Tier_3,Corner Shop
+row_04559,PRD-74AVMI,14.782,Low Fat,0.0926,Snack Foods,228.4,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_04562,PRD-IYIJE7,12.946,Low Fat,0.0927,Snack Foods,213.38,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_04563,PRD-SY94EV,,Low Fat,0.02,Health and Hygiene,132.18,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_04573,PRD-3KK8SL,11.335,Regular,0.0454,FRUITS AND VEGETABLES,198.08,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_04574,PRD-4OOJQX,,Low Fat,0.0894,SNACK FOODS,166.24,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_04576,PRD-MPP566,12.075,Low Fat,0.1327,HOUSEHOLD,243.9,STORE-JOR,34,,Tier_3,Corner Shop
+row_04577,PRD-RHZPAC,9.856,Regular,0.0281,canned,117.02,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_04591,PRD-9DBWQW,19.712,Low Fat,0.0404,household,90.74,STORE-HL7,23,Medium,Tier_3,Superstore
+row_04592,PRD-DH02YH,,Low Fat,0.0,Fruits and Vegetables,251.1,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_04597,PRD-ZEGYU5,9.901,Regular,0.0475,snack foods,35.4,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_04598,PRD-ZWW54A,,Low Fat,0.1943,Snack Foods,158.26,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_04599,PRD-C8MXAU,9.459,Regular,0.0462,Frozen Foods,50.62,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_04602,PRD-VQPG4P,10.414,Low Fat,0.0487,Others,167.62,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_04606,PRD-32R5MU,7.44,Low Fat,0.016,SNACK FOODS,152.83,STORE-HL7,23,Medium,Tier_3,Superstore
+row_04608,PRD-2PCM3G,18.614,Low Fat,0.0375,fruits and vegetables,111.05,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_04620,PRD-BF343R,20.057,Regular,0.0498,Frozen Foods,125.68,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_04630,PRD-2NS5MH,21.24,Low Fat,0.1712,Canned,187.8,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_04631,PRD-BCDPQ9,13.73,Regular,0.1216,dairy,234.04,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_04634,PRD-02NFGI,,Low Fat,0.0344,CANNED,183.37,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_04636,PRD-PT4MX2,14.449,Regular,0.0738,fruits and vegetables,103.73,STORE-JOR,34,,Tier_3,Corner Shop
+row_04637,PRD-R2LIOG,9.345,Low Fat,0.06,dairy,149.39,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_04638,PRD-64DI7N,20.138,Regular,0.0555,FROZEN FOODS,150.07,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_04651,PRD-RLBUOB,7.628,Regular,0.0226,seafood,191.04,STORE-HL7,23,Medium,Tier_3,Superstore
+row_04653,PRD-MPXPMF,14.589,Low Fat,0.0331,HEALTH AND HYGIENE,231.69,STORE-HL7,23,Medium,Tier_3,Superstore
+row_04656,PRD-G7TBTN,16.209,Low Fat,0.0,snack foods,54.64,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_04657,PRD-TVSXA7,7.176,Low Fat,0.0686,Health and Hygiene,140.04,STORE-HL7,23,Medium,Tier_3,Superstore
+row_04674,PRD-L1A5P6,,Regular,0.0445,Dairy,121.05,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_04675,PRD-NHLLA9,13.297,Low Fat,0.078,Health and Hygiene,54.95,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_04686,PRD-7SGMSO,,Low Fat,0.0383,Hard Drinks,129.74,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_04699,PRD-JVFJWT,19.356,Regular,0.1028,Fruits and Vegetables,222.92,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_04700,PRD-BOVVPN,9.873,Low Fat,0.0553,health and hygiene,196.12,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_04704,PRD-H0JJGG,18.563,Low Fat,0.1158,Frozen Foods,109.62,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_04709,PRD-195DWY,16.032,Low Fat,0.0651,Fruits and Vegetables,202.25,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_04710,PRD-EWQGAD,5.551,Regular,0.0309,CANNED,189.08,STORE-HL7,23,Medium,Tier_3,Superstore
+row_04729,PRD-S2II06,,Low Fat,0.1162,Baking Goods,52.8,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_04731,PRD-098QST,7.114,Low Fat,0.0219,Frozen Foods,261.91,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_04733,PRD-4I42AF,7.446,Low Fat,0.2063,Starchy Foods,203.21,STORE-JOR,34,,Tier_3,Corner Shop
+row_04737,PRD-E5BLYU,,Regular,0.059,SNACK FOODS,56.57,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_04741,PRD-1YKXQ9,19.062,Low Fat,0.0535,Health and Hygiene,102.0,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_04744,PRD-HP5E7A,10.576,Regular,0.0845,snack foods,236.65,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_04745,PRD-AMZHR6,7.642,Low Fat,0.1554,health and hygiene,86.01,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_04749,PRD-VTTR5G,,Regular,0.1005,breakfast,239.24,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_04757,PRD-8JU6OJ,13.939,Low Fat,0.1282,BAKING GOODS,75.11,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_04759,PRD-61J4BY,,Low Fat,0.0116,HOUSEHOLD,149.49,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_04769,PRD-0JE4QV,6.615,Low Fat,0.0337,FROZEN FOODS,224.88,STORE-HL7,23,Medium,Tier_3,Superstore
+row_04772,PRD-JLQFJT,19.201,Low Fat,0.043,Household,127.43,STORE-HL7,23,Medium,Tier_3,Superstore
+row_04775,PRD-GHO6AC,7.706,Regular,0.0719,Snack Foods,93.53,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_04781,PRD-SCSFW2,9.539,Regular,0.2249,frozen foods,236.65,STORE-JOR,34,,Tier_3,Corner Shop
+row_04783,PRD-DI6SOU,6.64,Regular,0.0743,Canned,153.1,STORE-JOR,34,,Tier_3,Corner Shop
+row_04784,PRD-UWE98S,7.66,Low Fat,0.0328,Frozen Foods,241.02,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_04785,PRD-SIY7PG,13.937,Low Fat,0.0252,Household,39.33,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_04787,PRD-MSND8D,8.877,Low Fat,0.0385,soft drinks,36.49,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_04796,PRD-VP8OWT,20.862,Low Fat,0.0281,HOUSEHOLD,141.71,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_04799,PRD-Y4II63,,Low Fat,0.1238,household,123.54,STORE-HL7,23,Medium,Tier_3,Superstore
+row_04803,PRD-CU4YYJ,15.97,Low Fat,0.0761,Canned,36.1,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_04814,PRD-2QPR75,13.789,Low Fat,0.0951,DAIRY,56.48,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_04824,PRD-SILU2D,6.584,Low Fat,0.0102,Canned,114.53,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_04826,PRD-4RZCNO,6.076,Low Fat,0.0293,Household,109.18,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_04831,PRD-5XCR5N,20.288,Low Fat,0.035,Household,121.88,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_04841,PRD-CP4E30,5.952,Low Fat,0.0,DAIRY,176.78,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_04843,PRD-7SMC67,15.704,Low Fat,0.1382,Breakfast,128.07,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_04846,PRD-JDXA1F,,Low Fat,0.0489,MEAT,124.47,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_04852,PRD-4KDSBS,6.203,Low Fat,0.0469,baking goods,98.01,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_04855,PRD-L1A5P6,16.582,Regular,0.0414,Dairy,120.21,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_04859,PRD-RGLY41,13.196,Low Fat,0.0561,Health and Hygiene,32.65,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_04863,PRD-1N8MTZ,19.962,Low Fat,0.0251,Dairy,48.07,STORE-HL7,23,Medium,Tier_3,Superstore
+row_04881,PRD-9ESEQG,6.313,Regular,0.1766,MEAT,91.48,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_04886,PRD-TT69UA,7.679,Low Fat,0.0498,Canned,118.61,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_04888,PRD-CSMCMC,10.953,Regular,0.0098,Dairy,124.85,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_04889,PRD-8YT0FG,11.104,Low Fat,0.0203,HEALTH AND HYGIENE,255.67,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_04902,PRD-FVHC3D,17.675,Low Fat,0.0753,Seafood,36.17,STORE-HL7,23,Medium,Tier_3,Superstore
+row_04909,PRD-U9G2LT,,Regular,0.0637,snack foods,52.89,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_04913,PRD-97XGCK,15.351,Low Fat,0.081,BAKING GOODS,111.22,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_04914,PRD-3EHIB4,7.891,Low Fat,0.0484,Canned,250.8,STORE-HL7,23,Medium,Tier_3,Superstore
+row_04929,PRD-DZ26FO,11.263,Low Fat,0.0185,Canned,174.98,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_04936,PRD-042LPI,,Low Fat,0.0459,health and hygiene,42.64,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_04937,PRD-AQYP2R,19.773,Regular,0.0167,Canned,184.5,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_04938,PRD-L11FC6,19.137,Regular,0.0176,meat,103.31,STORE-HL7,23,Medium,Tier_3,Superstore
+row_04945,PRD-S57TCO,5.336,Regular,0.0,BAKING GOODS,128.33,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_04955,PRD-Y2YYF8,8.041,Low Fat,0.0799,baking goods,143.47,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_04965,PRD-O7V0VU,,Low Fat,0.0365,CANNED,87.0,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_04970,PRD-0V6RAS,,Regular,0.0845,Fruits and Vegetables,164.56,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_04974,PRD-F13TKM,20.346,Low Fat,0.0719,HOUSEHOLD,73.26,STORE-HL7,23,Medium,Tier_3,Superstore
+row_04976,PRD-08S1A7,11.799,Low Fat,0.0708,Fruits and Vegetables,194.77,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_04986,PRD-Z3PM7V,19.651,Regular,0.0938,Meat,176.94,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_04987,PRD-YGW5F2,10.15,Low Fat,0.1506,Meat,101.25,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_04989,PRD-X497W1,,Low Fat,0.0474,Hard Drinks,154.48,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_04995,PRD-AWPUBL,9.805,Regular,0.0299,CANNED,174.95,STORE-HL7,23,Medium,Tier_3,Superstore
+row_05004,PRD-4ILMK5,,Low Fat,0.0815,Health and Hygiene,157.16,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_05018,PRD-TGVS38,15.734,Regular,0.0,dairy,62.54,STORE-HL7,23,Medium,Tier_3,Superstore
+row_05021,PRD-9K044M,7.069,Regular,0.0433,Starchy Foods,58.85,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_05023,PRD-FHG8KS,19.855,Low Fat,0.1142,Household,121.75,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_05025,PRD-4KDSBS,6.228,Low Fat,0.0464,Baking Goods,96.33,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_05033,PRD-IV473J,19.881,Regular,0.0304,Frozen Foods,183.69,STORE-JOR,34,,Tier_3,Corner Shop
+row_05034,PRD-PUWBWJ,12.795,Regular,0.0729,Dairy,261.16,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_05035,PRD-2RL15F,9.943,Low Fat,0.1132,Hard Drinks,110.14,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_05036,PRD-0B58ST,16.909,Regular,0.0083,CANNED,103.22,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_05045,PRD-A6X5Z0,18.472,Low Fat,0.0771,Health and Hygiene,96.61,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_05047,PRD-ZFWONV,5.584,Regular,0.1057,fruits and vegetables,141.89,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_05051,PRD-YROQ4H,11.491,Low Fat,0.0394,Health and Hygiene,180.29,STORE-JOR,34,,Tier_3,Corner Shop
+row_05053,PRD-SWX1JP,9.976,Low Fat,0.0494,baking goods,102.99,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_05054,PRD-PJGDSY,5.921,Low Fat,0.2442,Snack Foods,153.55,STORE-JOR,34,,Tier_3,Corner Shop
+row_05055,PRD-1N8MTZ,20.065,Low Fat,0.025,Dairy,47.74,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_05063,PRD-XV9XJM,10.484,Regular,0.0674,Starchy Foods,78.58,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_05103,PRD-MN8Z1H,11.294,Low Fat,0.0214,health and hygiene,152.94,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_05107,PRD-RCD9SI,,Low Fat,0.0378,Hard Drinks,55.05,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_05116,PRD-4R1F1X,,Low Fat,0.0083,Dairy,168.9,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_05132,PRD-UN5Z3J,,Regular,0.0,SOFT DRINKS,172.78,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_05138,PRD-L6H2NL,8.832,Low Fat,0.0833,HOUSEHOLD,46.85,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_05140,PRD-43Z5TX,6.089,Low Fat,0.0252,Fruits and Vegetables,158.33,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_05141,PRD-0KDULB,20.666,Low Fat,0.0,HOUSEHOLD,95.06,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_05142,PRD-3BD4Z1,,Low Fat,0.0294,FRUITS AND VEGETABLES,159.49,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_05146,PRD-6Z8VBH,,Low Fat,0.074,Hard Drinks,57.36,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_05147,PRD-8A5PN4,,Regular,0.0,Fruits and Vegetables,263.51,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_05160,PRD-W9XHRO,19.619,Regular,0.0,Starchy Foods,217.12,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_05162,PRD-DV8A43,,Regular,0.136,Snack Foods,46.49,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_05180,PRD-OGHEXC,11.295,Low Fat,0.0543,Health and Hygiene,99.13,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_05185,PRD-0X3FG6,20.312,Regular,0.1006,Fruits and Vegetables,122.15,STORE-HL7,23,Medium,Tier_3,Superstore
+row_05191,PRD-ITAZVY,13.338,Low Fat,0.0675,Frozen Foods,48.72,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_05199,PRD-S3JKV0,13.127,Regular,0.0665,dairy,58.73,STORE-HL7,23,Medium,Tier_3,Superstore
+row_05204,PRD-C6G610,7.554,Low Fat,0.0661,Snack Foods,109.41,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_05213,PRD-VRHX1Z,7.509,Low Fat,0.1196,Fruits and Vegetables,122.15,STORE-HL7,23,Medium,Tier_3,Superstore
+row_05215,PRD-X1M5E8,15.619,Low Fat,0.0438,Snack Foods,170.27,STORE-JOR,34,,Tier_3,Corner Shop
+row_05216,PRD-N6ZV9D,21.713,Regular,0.1634,Fruits and Vegetables,63.76,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_05223,PRD-28T7A9,14.7,Low Fat,0.0603,Dairy,153.43,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_05229,PRD-H330KV,17.554,Low Fat,0.0572,fruits and vegetables,145.41,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_05235,PRD-2CQ23Q,8.134,Low Fat,0.0,Canned,165.41,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_05237,PRD-GJY1KD,13.858,Low Fat,0.0084,HOUSEHOLD,191.66,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_05239,PRD-Q8SB7X,21.73,Regular,0.0212,Breakfast,133.64,STORE-HL7,23,Medium,Tier_3,Superstore
+row_05246,PRD-N2D7GY,17.853,Low Fat,0.0302,Others,175.34,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_05247,PRD-H56OB4,,Low Fat,0.0459,household,107.1,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_05254,PRD-P1PFDI,,Low Fat,0.2042,Others,112.34,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_05258,PRD-RB4BUY,,Regular,0.0438,frozen foods,160.8,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_05261,PRD-HDPJSA,6.311,Low Fat,0.1232,Canned,261.51,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_05262,PRD-3BD4Z1,5.912,Low Fat,0.0316,fruits and vegetables,161.04,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_05267,PRD-XSDJWS,18.175,Low Fat,0.0911,Frozen Foods,193.79,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_05272,PRD-DRIIPJ,12.624,Low Fat,0.0,snack foods,119.77,STORE-HL7,23,Medium,Tier_3,Superstore
+row_05287,PRD-2DT1EG,5.478,Low Fat,0.1231,Health and Hygiene,122.63,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_05290,PRD-29S85M,19.152,Low Fat,0.0672,SNACK FOODS,176.69,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_05296,PRD-6RDQYB,10.443,Regular,0.0128,Meat,194.89,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_05297,PRD-2G73AJ,9.311,Low Fat,0.0265,dairy,245.23,STORE-JOR,34,,Tier_3,Corner Shop
+row_05299,PRD-4JP18M,,Low Fat,0.0513,Snack Foods,117.82,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_05302,PRD-9LB7L5,,Regular,0.2924,Dairy,161.38,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_05303,PRD-MITKRF,9.603,Regular,0.0987,BAKING GOODS,87.05,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_05305,PRD-OF1GG2,13.414,Low Fat,0.0371,snack foods,182.45,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_05309,PRD-ZHWW3L,11.92,Regular,0.0209,Meat,96.56,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_05312,PRD-BCDPQ9,13.402,Regular,0.1174,DAIRY,235.29,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_05314,PRD-S4SJ2V,,Regular,0.1448,Dairy,53.76,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_05331,PRD-57923T,12.02,Regular,0.1104,Dairy,225.28,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_05336,PRD-3VXDO3,7.889,Regular,0.0859,fruits and vegetables,122.26,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_05342,PRD-BPT359,4.953,Regular,0.0,Baking Goods,54.71,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_05343,PRD-BE4HW4,12.201,Low Fat,0.0753,BAKING GOODS,122.95,STORE-HL7,23,Medium,Tier_3,Superstore
+row_05348,PRD-CXBJQ3,13.202,Low Fat,0.0509,Health and Hygiene,179.68,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_05349,PRD-WT29FN,17.634,Low Fat,0.0086,baking goods,76.49,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_05354,PRD-IGBM76,9.718,Regular,0.0437,Baking Goods,37.7,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_05358,PRD-VTAQXP,,Regular,0.1003,Dairy,44.6,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_05359,PRD-L7R843,,Low Fat,0.075,Hard Drinks,254.72,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_05360,PRD-0U2BL3,,Low Fat,0.1793,SNACK FOODS,145.84,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_05371,PRD-9789H0,18.047,Regular,0.0258,baking goods,239.88,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_05377,PRD-7ZGA6X,15.214,Low Fat,0.0764,baking goods,90.97,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_05392,PRD-UPTJ7O,16.079,Regular,0.0368,Frozen Foods,127.46,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_05393,PRD-THLXJ6,13.042,Low Fat,0.12,snack foods,41.85,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_05398,PRD-6HEP2U,,Low Fat,0.0227,Snack Foods,140.95,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_05401,PRD-IJOTIN,18.013,Low Fat,0.0671,Frozen Foods,151.37,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_05403,PRD-FT3J41,,Regular,0.179,baking goods,170.4,STORE-JOR,34,,Tier_3,Corner Shop
+row_05406,PRD-3KEGH5,5.809,Low Fat,0.0441,canned,227.54,STORE-HL7,23,Medium,Tier_3,Superstore
+row_05408,PRD-MAA7H7,14.678,Regular,0.1035,snack foods,51.88,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_05409,PRD-SB61LG,21.061,Regular,0.0479,fruits and vegetables,181.84,STORE-HL7,23,Medium,Tier_3,Superstore
+row_05418,PRD-VLTBHO,17.11,Low Fat,0.1547,MEAT,163.09,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_05419,PRD-ULF5VL,5.939,Regular,0.1268,Snack Foods,260.13,STORE-JOR,34,,Tier_3,Corner Shop
+row_05423,PRD-DE4M6H,6.517,Regular,0.0475,frozen foods,36.7,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_05429,PRD-WA5IMY,11.443,Regular,0.0768,frozen foods,84.63,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_05437,PRD-HYW1UI,8.654,Regular,0.0454,DAIRY,42.85,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_05446,PRD-5YE8T5,15.2,Regular,0.0351,Fruits and Vegetables,156.77,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_05449,PRD-PPPTFE,11.737,Regular,0.1738,canned,117.33,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_05451,PRD-OBR9GP,5.493,Low Fat,0.0332,HEALTH AND HYGIENE,98.52,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_05454,PRD-IHO2KG,13.451,Regular,0.083,Frozen Foods,266.0,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_05457,PRD-JGLNR2,10.474,Regular,0.0113,snack foods,169.49,STORE-HL7,23,Medium,Tier_3,Superstore
+row_05459,PRD-UT6Z84,11.061,Regular,0.0081,Dairy,147.83,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_05462,PRD-IYIJE7,12.589,Low Fat,0.1006,Snack Foods,212.53,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_05463,PRD-RYI0M7,10.418,Low Fat,0.0744,Frozen Foods,120.96,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_05476,PRD-UHG7EC,13.573,Regular,0.0258,FROZEN FOODS,167.51,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_05485,PRD-PSFZVE,17.506,Low Fat,0.0552,Snack Foods,106.07,STORE-HL7,23,Medium,Tier_3,Superstore
+row_05486,PRD-4HX6BQ,10.1,Low Fat,0.0235,Canned,111.81,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_05493,PRD-PNWDDS,,Low Fat,0.2062,dairy,44.12,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_05504,PRD-4PZT3E,16.248,Low Fat,0.0678,Dairy,214.52,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_05505,PRD-2CQ23Q,7.804,Low Fat,0.028,Canned,159.91,STORE-HL7,23,Medium,Tier_3,Superstore
+row_05506,PRD-0UQYHD,16.277,Low Fat,0.0403,household,118.6,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_05507,PRD-ZYK421,9.045,Low Fat,0.0367,Household,33.53,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_05508,PRD-QJTAA7,7.066,Regular,0.1735,breads,34.77,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_05528,PRD-AN4EIO,13.739,Regular,0.1294,FROZEN FOODS,53.38,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_05530,PRD-V1VXVU,5.349,Low Fat,0.0975,health and hygiene,103.81,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_05546,PRD-0YLTZ9,20.622,Low Fat,0.0911,dairy,76.33,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_05556,PRD-59JSU0,14.795,Regular,0.0942,Meat,138.52,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_05562,PRD-JDWCJC,16.783,Regular,0.0622,Snack Foods,58.37,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_05563,PRD-XCFTUX,15.23,Low Fat,0.0177,Canned,183.5,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_05572,PRD-OGP0MY,9.196,Regular,0.0523,Baking Goods,78.81,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_05580,PRD-WTIGY6,11.126,Regular,0.0875,Snack Foods,163.49,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_05590,PRD-LFQG18,10.978,Regular,0.0541,meat,95.96,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_05593,PRD-YUXGFA,11.564,Regular,0.0605,Snack Foods,104.22,STORE-JOR,34,,Tier_3,Corner Shop
+row_05594,PRD-S9CFU5,9.386,Regular,0.1131,Snack Foods,162.36,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_05597,PRD-KJ6I53,,Low Fat,0.1875,Household,32.7,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_05601,PRD-322N64,17.691,Low Fat,0.1001,Dairy,89.25,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_05602,PRD-5I0GQM,18.115,Low Fat,0.1444,Breakfast,99.42,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_05605,PRD-P45GAD,8.752,Low Fat,0.1211,HOUSEHOLD,95.76,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_05623,PRD-H4PNZP,17.949,Regular,0.0127,Fruits and Vegetables,60.05,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_05625,PRD-RP91YM,19.805,Regular,0.2574,Meat,80.93,STORE-JOR,34,,Tier_3,Corner Shop
+row_05630,PRD-6LCP22,,Low Fat,0.0706,Canned,255.36,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_05640,PRD-TY5H59,,Low Fat,0.0982,FRUITS AND VEGETABLES,212.88,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_05644,PRD-VP8H4N,8.738,Low Fat,0.159,canned,50.41,STORE-JOR,34,,Tier_3,Corner Shop
+row_05646,PRD-BA4ILA,16.075,Regular,0.1263,FRUITS AND VEGETABLES,109.75,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_05655,PRD-2SLHIM,21.376,Low Fat,0.0096,Meat,182.82,STORE-HL7,23,Medium,Tier_3,Superstore
+row_05658,PRD-H8LBRN,16.515,Low Fat,0.0302,Household,255.91,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_05667,PRD-JQMLJE,7.025,Low Fat,0.0378,dairy,62.53,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_05679,PRD-M2OX8M,12.835,Low Fat,0.0227,fruits and vegetables,161.42,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_05687,PRD-PGDZ95,14.507,Low Fat,0.131,Frozen Foods,81.81,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_05695,PRD-ZSDP5Y,16.697,Low Fat,0.0294,SNACK FOODS,88.46,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_05705,PRD-R04H5W,19.145,Low Fat,0.1235,household,185.0,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_05707,PRD-6CJDKQ,18.435,Low Fat,0.0859,FRUITS AND VEGETABLES,196.83,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_05711,PRD-GD8AFP,19.443,Low Fat,0.0456,Dairy,39.11,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_05716,PRD-77KXXS,8.486,Regular,0.0713,dairy,189.7,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_05718,PRD-R5JEK1,8.429,Regular,0.0315,SNACK FOODS,115.64,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_05725,PRD-57923T,11.948,Regular,0.1857,Dairy,222.4,STORE-JOR,34,,Tier_3,Corner Shop
+row_05728,PRD-JD2GVF,9.232,Low Fat,0.0299,Baking Goods,197.75,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_05729,PRD-29S85M,,Low Fat,0.0635,SNACK FOODS,172.98,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_05732,PRD-R1N6UV,18.284,Low Fat,0.0146,Household,221.95,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_05738,PRD-24SCOS,5.851,Low Fat,0.0037,HARD DRINKS,153.56,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_05741,PRD-7N4YTU,17.924,Low Fat,0.0752,Snack Foods,252.91,STORE-HL7,23,Medium,Tier_3,Superstore
+row_05742,PRD-W9XHRO,19.055,Regular,0.0056,Starchy Foods,226.98,STORE-HL7,23,Medium,Tier_3,Superstore
+row_05753,PRD-3IFU71,,Low Fat,0.0,Baking Goods,143.47,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_05756,PRD-0TB4QO,6.474,Regular,0.0875,Snack Foods,133.83,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_05758,PRD-YY4QJ7,13.031,Regular,0.1184,BREADS,138.68,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_05763,PRD-WDSS7E,19.241,Regular,0.042,Frozen Foods,48.46,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_05774,PRD-DV8A43,7.714,Regular,0.2188,snack foods,44.97,STORE-JOR,34,,Tier_3,Corner Shop
+row_05778,PRD-D8LKB5,16.522,Low Fat,0.0466,Snack Foods,187.56,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_05781,PRD-UVYR0Q,10.975,Low Fat,0.0629,soft drinks,155.91,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_05786,PRD-MN8Z1H,11.693,Low Fat,0.0366,HEALTH AND HYGIENE,151.37,STORE-JOR,34,,Tier_3,Corner Shop
+row_05793,PRD-X7RF1F,9.961,Low Fat,0.0411,SNACK FOODS,44.37,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_05796,PRD-BWWWTP,,Low Fat,0.0901,dairy,254.46,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_05800,PRD-I7KBCW,14.383,Low Fat,0.1391,Meat,185.62,STORE-JOR,34,,Tier_3,Corner Shop
+row_05805,PRD-AZUAYN,10.153,Low Fat,0.2045,health and hygiene,156.29,STORE-JOR,34,,Tier_3,Corner Shop
+row_05806,PRD-VKXTUF,21.183,Low Fat,0.0242,fruits and vegetables,91.84,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_05809,PRD-1FEQOX,,Low Fat,0.0846,SNACK FOODS,249.48,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_05816,PRD-WDSS7E,19.658,Regular,0.0436,frozen foods,49.89,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_05831,PRD-KD6FLE,16.211,Low Fat,0.024,Soft Drinks,197.75,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_05833,PRD-4GS0FH,16.922,Regular,0.0486,canned,140.19,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_05836,PRD-7MBAPO,10.238,Regular,0.0532,Fruits and Vegetables,228.37,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_05840,PRD-6Z8VBH,5.81,Low Fat,0.0783,HARD DRINKS,56.23,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_05847,PRD-FCYZ7S,,Low Fat,0.2352,SNACK FOODS,154.04,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_05849,PRD-64DI7N,20.075,Regular,0.0,frozen foods,151.38,STORE-JOR,34,,Tier_3,Corner Shop
+row_05851,PRD-U4W9RS,15.097,Low Fat,0.0931,BAKING GOODS,139.11,STORE-HL7,23,Medium,Tier_3,Superstore
+row_05864,PRD-MN8Z1H,11.187,Low Fat,0.0217,Health and Hygiene,148.25,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_05870,PRD-AK645K,11.408,Regular,0.0721,SNACK FOODS,85.51,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_05876,PRD-8LMN4R,15.648,Low Fat,0.0531,Soft Drinks,42.23,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_05877,PRD-IT7I1J,,Regular,0.0767,Snack Foods,109.91,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_05878,PRD-S3JKV0,13.542,Regular,0.0693,Dairy,58.07,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_05882,PRD-1GN81E,13.208,Regular,0.1212,snack foods,270.73,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_05883,PRD-B9UOE3,21.205,Low Fat,0.1548,snack foods,175.42,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_05893,PRD-SX50VK,6.315,Regular,0.1196,snack foods,37.32,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_05910,PRD-FNO6B9,,Regular,0.226,Soft Drinks,183.34,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_05913,PRD-M7PL99,20.398,Low Fat,0.0807,MEAT,185.65,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_05915,PRD-GS8W0Q,10.692,Low Fat,0.0495,fruits and vegetables,237.18,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_05916,PRD-71SD9E,,Low Fat,0.1192,snack foods,196.24,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_05925,PRD-4PZT3E,16.783,Low Fat,0.0729,Dairy,214.76,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_05929,PRD-AN63XD,12.916,Low Fat,0.0059,frozen foods,182.47,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_05932,PRD-RHA96G,4.899,Low Fat,0.0476,baking goods,202.44,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_05935,PRD-WJGHF5,19.34,Regular,0.16,canned,249.17,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_05938,PRD-JRFCO7,9.468,Low Fat,0.1188,Frozen Foods,59.89,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_05942,PRD-LKS9L3,6.205,Regular,0.0797,Baking Goods,226.2,STORE-JOR,34,,Tier_3,Corner Shop
+row_05950,PRD-XMVMZH,14.004,Regular,0.0815,Meat,204.88,STORE-JOR,34,,Tier_3,Corner Shop
+row_05951,PRD-IEPXXY,,Low Fat,0.0292,frozen foods,125.42,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_05965,PRD-S57TCO,,Regular,0.0473,Baking Goods,130.83,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_05970,PRD-I1NNSM,10.533,Regular,0.0257,Baking Goods,147.0,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_05971,PRD-IS25HB,7.454,Low Fat,0.0819,SOFT DRINKS,120.64,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_05977,PRD-41ZE8O,7.872,Regular,0.0,Snack Foods,41.9,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_05979,PRD-A8C4XU,15.313,Regular,0.0817,meat,239.98,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_05980,PRD-OIZ8SJ,13.091,Regular,0.0,fruits and vegetables,259.24,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_05981,PRD-BUQGEV,18.125,Low Fat,0.0116,Snack Foods,218.76,STORE-HL7,23,Medium,Tier_3,Superstore
+row_05982,PRD-V2V1IT,9.992,Low Fat,0.0468,frozen foods,134.12,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_05986,PRD-D9146L,18.58,Low Fat,0.0736,Snack Foods,163.7,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_05994,PRD-YHVNT3,9.451,Low Fat,0.0392,Others,85.27,STORE-HL7,23,Medium,Tier_3,Superstore
+row_05996,PRD-O84W6T,,Low Fat,0.039,SNACK FOODS,130.04,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_06000,PRD-0DZ6XP,18.823,Low Fat,0.1015,Fruits and Vegetables,93.84,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_06001,PRD-I64XLY,11.663,Low Fat,0.0418,Fruits and Vegetables,185.83,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_06002,PRD-XSDJWS,18.347,Low Fat,0.0,frozen foods,195.91,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_06012,PRD-SUDBCI,13.083,Low Fat,0.0458,Snack Foods,178.3,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_06023,PRD-1N0XXZ,11.266,Low Fat,0.0104,Canned,80.85,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_06027,PRD-N2T3QH,,Low Fat,0.0559,Fruits and Vegetables,61.17,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_06032,PRD-1N0XXZ,,Low Fat,0.0105,Canned,85.93,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_06045,PRD-WCAQ6Y,12.363,Regular,0.1145,FRUITS AND VEGETABLES,83.97,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_06047,PRD-22JUF0,9.134,Low Fat,0.0505,Household,153.57,STORE-HL7,23,Medium,Tier_3,Superstore
+row_06048,PRD-JQMLJE,6.875,Low Fat,0.0397,Dairy,63.7,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_06053,PRD-EJRBVY,7.793,Regular,0.0332,SNACK FOODS,169.42,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_06061,PRD-PR2ESP,14.477,Low Fat,0.021,Hard Drinks,140.3,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_06063,PRD-ON4O79,16.224,Low Fat,0.0169,Household,100.92,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_06072,PRD-7XB2JA,8.014,Low Fat,0.0207,HOUSEHOLD,152.99,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_06076,PRD-R08XCC,18.561,Regular,0.1774,MEAT,48.97,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_06082,PRD-QP5L7C,21.353,Low Fat,0.039,Frozen Foods,189.52,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_06097,PRD-44P39J,11.283,Regular,0.068,Frozen Foods,256.52,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_06098,PRD-9R9NDL,14.982,Regular,0.0118,Snack Foods,126.14,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_06106,PRD-SDX9DA,13.293,Regular,0.0278,Meat,34.29,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_06109,PRD-5QVWC9,6.402,Low Fat,0.1145,HOUSEHOLD,261.78,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_06115,PRD-VN11V8,10.962,Low Fat,0.0629,fruits and vegetables,152.74,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_06116,PRD-4B2PMS,,Low Fat,0.0449,Health and Hygiene,152.25,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_06122,PRD-GLFRI8,8.043,Low Fat,0.0218,BREAKFAST,236.22,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_06124,PRD-8MVMVQ,8.746,Low Fat,0.1269,Household,110.21,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_06127,PRD-0HHXSC,,Low Fat,0.0459,household,75.29,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_06137,PRD-N4RCER,17.392,Regular,0.0,seafood,147.55,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_06142,PRD-0L0JBS,9.119,Regular,0.0093,Canned,101.32,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_06144,PRD-FSOZPT,19.181,Regular,0.0806,Soft Drinks,233.41,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_06145,PRD-TQ9DZG,,Low Fat,0.0283,fruits and vegetables,39.99,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_06146,PRD-5HJHWF,9.668,Low Fat,0.0466,Snack Foods,85.64,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_06150,PRD-CFDOOB,9.162,Regular,0.1233,FRUITS AND VEGETABLES,99.06,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_06153,PRD-ZGIUDT,15.278,Low Fat,0.1013,health and hygiene,116.02,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_06156,PRD-TKECTS,18.29,Low Fat,0.0746,snack foods,218.45,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_06164,PRD-4I42AF,7.399,Low Fat,0.1284,starchy foods,205.19,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_06191,PRD-HD96M8,12.239,Low Fat,0.0605,STARCHY FOODS,34.44,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_06193,PRD-F1RCAV,8.669,Low Fat,0.0906,Hard Drinks,150.61,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_06194,PRD-MSND8D,8.979,Low Fat,0.04,Soft Drinks,35.55,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_06199,PRD-90XDR7,12.365,Low Fat,0.0197,Breads,198.77,STORE-HL7,23,Medium,Tier_3,Superstore
+row_06201,PRD-FL1299,8.853,Regular,0.0894,Canned,84.2,STORE-JOR,34,,Tier_3,Corner Shop
+row_06202,PRD-ZEGYU5,10.096,Regular,0.0457,Snack Foods,39.56,STORE-HL7,23,Medium,Tier_3,Superstore
+row_06212,PRD-6RNJLK,,Low Fat,0.035,Baking Goods,43.69,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_06213,PRD-O90S1M,5.125,Regular,0.0,BREADS,224.6,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_06218,PRD-0JL6QK,19.307,Low Fat,0.1319,Snack Foods,104.69,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_06228,PRD-AK5AGE,10.769,Low Fat,0.043,HEALTH AND HYGIENE,188.77,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_06231,PRD-Q6EW09,18.67,Low Fat,0.0502,Snack Foods,180.03,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_06237,PRD-R5JEK1,8.437,Regular,0.0322,snack foods,116.17,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_06239,PRD-4XH4FJ,19.42,Regular,0.0957,Frozen Foods,191.31,STORE-HL7,23,Medium,Tier_3,Superstore
+row_06240,PRD-YHRDU3,12.777,Low Fat,0.0925,HOUSEHOLD,162.72,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_06242,PRD-15BYVZ,18.815,Low Fat,0.0436,Hard Drinks,189.64,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_06243,PRD-E5UPVR,17.17,Regular,0.0767,snack foods,110.59,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_06248,PRD-AQ6L6G,6.272,Low Fat,0.0788,SOFT DRINKS,115.59,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_06258,PRD-NMRS5Y,8.323,Low Fat,0.0318,Baking Goods,93.18,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_06260,PRD-6RX35U,,Regular,0.1306,Frozen Foods,197.42,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_06263,PRD-8Q2Y4P,,Regular,0.0707,breakfast,55.71,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_06268,PRD-95N4VP,15.249,Low Fat,0.0444,FROZEN FOODS,182.85,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_06269,PRD-UDA2RN,8.038,Regular,0.0948,breakfast,101.51,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_06279,PRD-J0KX9K,9.768,Low Fat,0.1116,fruits and vegetables,170.66,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_06283,PRD-KTGBTY,11.331,Low Fat,0.0196,Hard Drinks,38.6,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_06285,PRD-VP8H4N,,Low Fat,0.1007,CANNED,54.28,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_06292,PRD-7SGMSO,19.617,Low Fat,0.0389,hard drinks,125.33,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_06295,PRD-MNEL25,17.941,Regular,0.0454,SNACK FOODS,119.31,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_06323,PRD-M9RIT8,7.942,Low Fat,0.0152,SNACK FOODS,163.28,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_06324,PRD-Z45QF8,9.517,Low Fat,0.0873,snack foods,262.75,STORE-JOR,34,,Tier_3,Corner Shop
+row_06326,PRD-P5GVBS,11.392,Regular,0.1472,Dairy,236.7,STORE-HL7,23,Medium,Tier_3,Superstore
+row_06330,PRD-VDV7PE,11.248,Low Fat,0.038,Health and Hygiene,40.53,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_06338,PRD-L3H73U,7.443,Low Fat,0.0568,SNACK FOODS,113.23,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_06343,PRD-042LPI,19.877,Low Fat,0.0474,HEALTH AND HYGIENE,44.43,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_06351,PRD-HQ57UY,16.258,Regular,0.1138,frozen foods,36.88,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_06352,PRD-UP3HR2,8.653,Low Fat,0.1126,fruits and vegetables,95.14,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_06355,PRD-OW7SFQ,12.929,Low Fat,0.1056,Fruits and Vegetables,232.91,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_06366,PRD-DOYWLL,12.33,Low Fat,0.1105,canned,116.63,STORE-HL7,23,Medium,Tier_3,Superstore
+row_06369,PRD-EPMKVT,20.003,Low Fat,0.0751,health and hygiene,59.09,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_06371,PRD-UUSRZR,14.159,Regular,0.0615,Frozen Foods,156.81,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_06399,PRD-KD6FLE,16.272,Low Fat,0.023,SOFT DRINKS,186.0,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_06412,PRD-R73A70,19.52,Regular,0.0261,Meat,194.75,STORE-HL7,23,Medium,Tier_3,Superstore
+row_06416,PRD-0T2RJM,7.714,Low Fat,0.0334,canned,117.79,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_06421,PRD-Q2RPUV,,Low Fat,0.0336,Health and Hygiene,137.97,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_06424,PRD-LV9PLM,7.007,Low Fat,0.0611,Health and Hygiene,264.0,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_06431,PRD-PKL0BL,5.781,Low Fat,0.0139,SOFT DRINKS,148.78,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_06435,PRD-AWPUBL,9.799,Regular,0.0292,canned,171.47,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_06438,PRD-ITKQO4,,Regular,0.1541,Meat,158.13,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_06444,PRD-WT8JJ4,,Low Fat,0.0565,Others,40.03,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_06447,PRD-F075N4,,Regular,0.0661,snack foods,182.3,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_06455,PRD-MQC1A7,14.907,Low Fat,0.0,HARD DRINKS,56.39,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_06462,PRD-V77G1P,15.347,Low Fat,0.0257,Frozen Foods,147.62,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_06463,PRD-KFS6VF,11.097,Low Fat,0.102,hard drinks,75.34,STORE-JOR,34,,Tier_3,Corner Shop
+row_06464,PRD-QNVF2X,15.043,Regular,0.019,dairy,267.63,STORE-HL7,23,Medium,Tier_3,Superstore
+row_06471,PRD-FSOZPT,19.349,Regular,0.074,SOFT DRINKS,237.58,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_06475,PRD-70LKLF,16.007,Regular,0.0715,CANNED,104.5,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_06479,PRD-1EYY37,14.973,Low Fat,0.0483,soft drinks,66.81,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_06485,PRD-S4MGBN,16.499,Low Fat,0.1188,fruits and vegetables,178.65,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_06495,PRD-6D4HQC,7.231,Low Fat,0.0873,Snack Foods,109.98,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_06499,PRD-U7MX3G,5.699,Low Fat,0.1478,HOUSEHOLD,164.93,STORE-JOR,34,,Tier_3,Corner Shop
+row_06504,PRD-6NJ4OG,7.877,Low Fat,0.1112,Snack Foods,154.31,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_06505,PRD-S9CFU5,,Regular,0.1198,snack foods,159.13,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_06510,PRD-U4W9RS,14.976,Low Fat,0.0901,Baking Goods,139.71,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_06511,PRD-3G4UNX,4.88,Low Fat,0.1214,Canned,193.43,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_06514,PRD-22JUF0,9.364,Low Fat,0.0518,Household,149.52,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_06516,PRD-WDSS7E,19.349,Regular,0.0409,FROZEN FOODS,49.71,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_06518,PRD-YE19ES,10.828,Regular,0.1285,dairy,120.08,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_06520,PRD-WA5IMY,11.62,Regular,0.1268,FROZEN FOODS,81.13,STORE-JOR,34,,Tier_3,Corner Shop
+row_06525,PRD-LQY3T3,15.945,Low Fat,0.0,HOUSEHOLD,198.16,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_06528,PRD-0FM2N0,17.958,Low Fat,0.0476,Meat,154.17,STORE-HL7,23,Medium,Tier_3,Superstore
+row_06531,PRD-GLWY1N,6.173,Low Fat,0.1309,Frozen Foods,101.21,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_06534,PRD-6RDQYB,10.057,Regular,0.0121,meat,200.12,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_06539,PRD-OGHEXC,10.929,Low Fat,0.053,Health and Hygiene,103.25,STORE-HL7,23,Medium,Tier_3,Superstore
+row_06541,PRD-D9146L,,Low Fat,0.1331,Snack Foods,163.2,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_06543,PRD-MDLMQ0,,Low Fat,0.0586,Health and Hygiene,150.04,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_06546,PRD-WTQX65,20.435,Low Fat,0.0984,starchy foods,222.48,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_06552,PRD-1LWNLR,11.615,Low Fat,0.0,BAKING GOODS,245.17,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_06553,PRD-9L4UWN,10.988,Low Fat,0.1355,Snack Foods,213.64,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_06554,PRD-HC0BPN,10.302,Regular,0.0596,Fruits and Vegetables,184.82,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_06559,PRD-KGPPR8,18.812,Regular,0.0653,baking goods,167.36,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_06563,PRD-1XRZN0,14.817,Low Fat,0.0208,Canned,212.88,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_06578,PRD-88O5OR,12.85,Low Fat,0.0627,SOFT DRINKS,159.96,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_06591,PRD-K82WU9,6.051,Regular,0.1056,Fruits and Vegetables,127.05,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_06594,PRD-30DM7X,9.494,Regular,0.1065,Soft Drinks,41.94,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_06596,PRD-L9E9NI,,Regular,0.0348,baking goods,143.03,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_06599,PRD-BAZHAK,18.99,Low Fat,0.1008,Frozen Foods,112.39,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_06600,PRD-DH02YH,9.783,Low Fat,0.0389,FRUITS AND VEGETABLES,249.68,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_06602,PRD-QL2E5M,16.876,Low Fat,0.0597,Dairy,173.32,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_06603,PRD-LU9AAE,,Low Fat,0.1071,FROZEN FOODS,154.12,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_06611,PRD-HBRPOI,11.436,Low Fat,0.0417,Soft Drinks,141.04,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_06616,PRD-ZLVU35,13.478,Low Fat,0.0161,Breads,226.43,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_06617,PRD-JDWCJC,16.405,Regular,0.0614,Snack Foods,60.37,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_06619,PRD-N9CUWJ,,Low Fat,0.0351,snack foods,250.98,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_06630,PRD-QP5M3G,7.371,Low Fat,0.0161,Canned,90.6,STORE-HL7,23,Medium,Tier_3,Superstore
+row_06633,PRD-U7MX3G,5.925,Low Fat,0.0921,Household,157.11,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_06636,PRD-AY7R54,17.687,Low Fat,0.0754,household,233.32,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_06645,PRD-H56OB4,9.107,Low Fat,0.0484,Household,109.52,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_06646,PRD-PCUYHY,,Low Fat,0.1723,Baking Goods,159.4,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_06647,PRD-08S1A7,11.285,Low Fat,0.0745,Fruits and Vegetables,189.41,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_06648,PRD-D7S0Z9,17.943,Low Fat,0.0989,Health and Hygiene,235.62,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_06651,PRD-TZXI9C,17.509,Low Fat,0.1096,Snack Foods,167.13,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_06660,PRD-A0R0L9,14.248,Regular,0.0376,frozen foods,167.64,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_06663,PRD-C8MXAU,9.255,Regular,0.048,Frozen Foods,52.89,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_06668,PRD-8D7CED,12.456,Low Fat,0.0,Starchy Foods,129.3,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_06669,PRD-F8MDRY,,Regular,0.0414,Dairy,250.49,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_06671,PRD-4GS0FH,16.596,Regular,0.0477,Canned,145.42,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_06673,PRD-QKDZ1Q,,Regular,0.0617,fruits and vegetables,227.48,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_06675,PRD-55LOSM,7.428,Low Fat,0.0207,Snack Foods,245.83,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_06677,PRD-LKS9L3,6.227,Regular,0.0509,Baking Goods,220.33,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_06682,PRD-A0G7G2,15.877,Low Fat,0.0357,fruits and vegetables,267.4,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_06683,PRD-D7S0Z9,17.964,Low Fat,0.1608,health and hygiene,240.59,STORE-JOR,34,,Tier_3,Corner Shop
+row_06684,PRD-8JU6OJ,14.208,Low Fat,0.1313,Baking Goods,75.84,STORE-HL7,23,Medium,Tier_3,Superstore
+row_06686,PRD-JVFJWT,19.212,Regular,0.1676,Fruits and Vegetables,223.01,STORE-JOR,34,,Tier_3,Corner Shop
+row_06689,PRD-7IOABT,7.193,Low Fat,0.086,Frozen Foods,151.14,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_06693,PRD-FCYZ7S,12.706,Low Fat,0.0,snack foods,153.53,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_06696,PRD-ZWW54A,20.604,Low Fat,0.1871,Snack Foods,159.09,STORE-JOR,34,,Tier_3,Corner Shop
+row_06697,PRD-3WTZL0,5.647,Low Fat,0.0492,Others,102.85,STORE-HL7,23,Medium,Tier_3,Superstore
+row_06701,PRD-NJR720,18.99,Low Fat,0.1265,breads,159.79,STORE-HL7,23,Medium,Tier_3,Superstore
+row_06710,PRD-DP03EH,7.582,Low Fat,0.0,Dairy,209.2,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_06717,PRD-ZCF0TU,11.004,Regular,0.1384,CANNED,220.5,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_06719,PRD-0RH735,18.682,Low Fat,0.1842,others,245.12,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_06720,PRD-10N229,19.829,Low Fat,0.0137,Household,144.69,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_06722,PRD-FIFS27,,Low Fat,0.0513,Household,124.18,STORE-HL7,23,Medium,Tier_3,Superstore
+row_06723,PRD-2MR4FX,,Low Fat,0.0171,HEALTH AND HYGIENE,92.62,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_06735,PRD-MHZN3M,17.877,Low Fat,0.0173,Meat,140.64,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_06746,PRD-99VH0W,7.751,Low Fat,0.0494,fruits and vegetables,81.05,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_06748,PRD-KTBCUD,7.293,Low Fat,0.0825,Starchy Foods,163.19,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_06750,PRD-AQ8H3X,11.003,Low Fat,0.0619,FRUITS AND VEGETABLES,201.9,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_06772,PRD-8QLHBI,9.33,Low Fat,0.0998,SNACK FOODS,240.08,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_06776,PRD-EPZHPC,17.064,Low Fat,0.0,SOFT DRINKS,270.87,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_06782,PRD-6852FC,11.744,Low Fat,0.0171,Hard Drinks,183.7,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_06785,PRD-XV9XJM,10.264,Regular,0.0673,Starchy Foods,76.5,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_06786,PRD-5J92DM,,Regular,0.1583,frozen foods,196.16,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_06805,PRD-Y7S361,16.194,Low Fat,0.0635,Starchy Foods,225.64,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_06809,PRD-EI7XZU,13.722,Low Fat,0.0206,Fruits and Vegetables,176.23,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_06813,PRD-5AH9WE,18.272,Low Fat,0.0881,Household,197.24,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_06817,PRD-HP1UAK,12.483,Regular,0.0328,baking goods,166.2,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_06818,PRD-2VTJXU,6.39,Low Fat,0.1227,FRUITS AND VEGETABLES,47.84,STORE-HL7,23,Medium,Tier_3,Superstore
+row_06821,PRD-N8W9UR,7.109,Low Fat,0.1484,Canned,104.52,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_06825,PRD-MITKRF,9.206,Regular,0.0957,Baking Goods,92.13,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_06828,PRD-B9OF3M,,Low Fat,0.0,FRUITS AND VEGETABLES,250.63,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_06834,PRD-KB5FAA,9.812,Regular,0.0263,Snack Foods,260.49,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_06838,PRD-WU16HY,8.948,Low Fat,0.1059,Dairy,43.83,STORE-HL7,23,Medium,Tier_3,Superstore
+row_06841,PRD-M2PZNT,14.12,Low Fat,0.0328,OTHERS,166.67,STORE-JOR,34,,Tier_3,Corner Shop
+row_06842,PRD-4W0VUG,11.789,Low Fat,0.054,hard drinks,77.25,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_06852,PRD-A3SKAD,,Low Fat,0.1304,Household,163.0,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_06855,PRD-KL9Z6V,17.748,Low Fat,0.1555,Fruits and Vegetables,36.52,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_06856,PRD-2NS5MH,,Low Fat,0.299,Canned,180.6,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_06866,PRD-6JKLOQ,11.164,Low Fat,0.0,baking goods,161.12,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_06872,PRD-RDEXW2,15.437,Regular,0.0528,MEAT,151.65,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_06873,PRD-F4D9ZQ,7.934,Low Fat,0.082,MEAT,63.6,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_06885,PRD-S3EOQM,7.91,Low Fat,0.1663,Hard Drinks,140.2,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_06901,PRD-VG9YSQ,13.06,Regular,0.1003,Frozen Foods,198.84,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_06902,PRD-0DTSNL,8.836,Low Fat,0.0328,Household,101.01,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_06903,PRD-2BSMEB,6.662,Low Fat,0.0368,Baking Goods,47.47,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_06906,PRD-0TB4QO,6.766,Regular,0.1548,Snack Foods,128.65,STORE-JOR,34,,Tier_3,Corner Shop
+row_06907,PRD-KUE98H,9.4,Low Fat,0.1064,breads,65.31,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_06912,PRD-28N1GP,13.319,Low Fat,0.0,BAKING GOODS,86.89,STORE-HL7,23,Medium,Tier_3,Superstore
+row_06914,PRD-PL13YL,,Low Fat,0.1818,health and hygiene,188.35,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_06915,PRD-VXSN74,17.795,Low Fat,0.0557,SNACK FOODS,140.25,STORE-HL7,23,Medium,Tier_3,Superstore
+row_06918,PRD-J5B4CP,10.948,Low Fat,0.1027,breads,126.1,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_06920,PRD-I379U2,,Low Fat,0.0323,SOFT DRINKS,58.13,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_06924,PRD-S4MGBN,16.615,Low Fat,0.1265,fruits and vegetables,176.42,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_06929,PRD-0DTSNL,8.976,Low Fat,0.031,Household,99.68,STORE-HL7,23,Medium,Tier_3,Superstore
+row_06943,PRD-5I78U5,7.255,Regular,0.0228,Fruits and Vegetables,239.89,STORE-JOR,34,,Tier_3,Corner Shop
+row_06945,PRD-YHVNT3,9.5,Low Fat,0.0416,OTHERS,80.79,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_06946,PRD-UDA2RN,7.858,Regular,0.0955,Breakfast,99.85,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_06948,PRD-6852FC,11.891,Low Fat,0.0163,HARD DRINKS,184.36,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_06954,PRD-L9KV91,10.161,Low Fat,0.0304,Seafood,162.44,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_06955,PRD-G9LC5B,18.958,Low Fat,0.1106,Household,31.98,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_06960,PRD-GSEMU5,6.763,Regular,0.0285,FRUITS AND VEGETABLES,81.64,STORE-HL7,23,Medium,Tier_3,Superstore
+row_06963,PRD-88AENN,,Regular,0.0927,Fruits and Vegetables,169.18,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_06966,PRD-75I63R,8.991,Regular,0.0635,FROZEN FOODS,83.32,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_06969,PRD-B9UOE3,21.172,Low Fat,0.153,Snack Foods,174.57,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_06982,PRD-444NK0,5.054,Regular,0.0,Meat,124.18,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_06997,PRD-UUTRXG,12.602,Low Fat,0.0231,Fruits and Vegetables,178.14,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_07002,PRD-1AS2YU,19.201,Low Fat,0.0577,Baking Goods,132.31,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_07003,PRD-ULF5VL,5.862,Regular,0.0736,Snack Foods,263.09,STORE-HL7,23,Medium,Tier_3,Superstore
+row_07005,PRD-8L4EBE,12.515,Regular,0.0628,Baking Goods,199.0,STORE-HL7,23,Medium,Tier_3,Superstore
+row_07012,PRD-FHKP7I,16.751,Regular,0.0115,Canned,164.11,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_07017,PRD-U1OJA0,13.7,Low Fat,0.0804,breads,222.89,STORE-JOR,34,,Tier_3,Corner Shop
+row_07019,PRD-UUTRXG,12.584,Low Fat,0.0223,Fruits and Vegetables,178.73,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_07023,PRD-S2MXCB,12.647,Low Fat,0.082,household,177.68,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_07025,PRD-TF6NJ8,16.16,Low Fat,0.1058,FRUITS AND VEGETABLES,80.57,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_07029,PRD-2G73AJ,9.551,Low Fat,0.0163,Dairy,251.07,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_07030,PRD-3H7I5X,14.77,Regular,0.1035,Fruits and Vegetables,143.4,STORE-HL7,23,Medium,Tier_3,Superstore
+row_07038,PRD-XYXASW,15.192,Low Fat,0.0468,breads,117.39,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_07042,PRD-P9K4YE,7.712,Low Fat,0.0,frozen foods,119.82,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_07043,PRD-EVYY91,14.179,Low Fat,0.0164,health and hygiene,113.12,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_07045,PRD-X7RF1F,,Low Fat,0.0,Snack Foods,44.94,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_07048,PRD-5SOWOM,11.274,Low Fat,0.0146,STARCHY FOODS,177.73,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_07050,PRD-WJRNZT,,Low Fat,0.0664,household,167.74,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_07052,PRD-F075N4,15.475,Regular,0.0654,SNACK FOODS,180.12,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_07067,PRD-KL9Z6V,17.96,Low Fat,0.1683,Fruits and Vegetables,38.14,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_07069,PRD-HR8X8C,,Regular,0.1331,STARCHY FOODS,93.23,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_07072,PRD-ZFWONV,5.618,Regular,0.1097,FRUITS AND VEGETABLES,142.74,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_07073,PRD-FYZF7M,14.066,Low Fat,0.0874,Health and Hygiene,155.65,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_07075,PRD-0TB4QO,6.661,Regular,0.087,Snack Foods,128.72,STORE-HL7,23,Medium,Tier_3,Superstore
+row_07076,PRD-P8192C,8.203,Low Fat,0.0696,HOUSEHOLD,219.72,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_07085,PRD-Z565OD,10.063,Low Fat,0.0567,Household,116.58,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_07091,PRD-7CZE3S,7.144,Low Fat,0.0246,Meat,119.13,STORE-JOR,34,,Tier_3,Corner Shop
+row_07095,PRD-CLVEHR,,Regular,0.2767,Frozen Foods,34.41,STORE-JOR,34,,Tier_3,Corner Shop
+row_07096,PRD-CVIYJK,11.797,Regular,0.0,dairy,89.9,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_07097,PRD-OGP0MY,9.316,Regular,0.0508,baking goods,78.91,STORE-HL7,23,Medium,Tier_3,Superstore
+row_07100,PRD-JFPWZ6,,Regular,0.0904,Snack Foods,125.78,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_07118,PRD-53EF9P,12.3,Low Fat,0.0281,HOUSEHOLD,149.48,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_07120,PRD-J4WCO5,14.657,Regular,0.0268,Baking Goods,214.87,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_07136,PRD-VQPG4P,10.865,Low Fat,0.0471,Others,164.69,STORE-HL7,23,Medium,Tier_3,Superstore
+row_07138,PRD-ZWW54A,20.568,Low Fat,0.1089,snack foods,165.03,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_07140,PRD-6EGA7N,16.351,Low Fat,0.102,canned,185.63,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_07142,PRD-RP91YM,20.711,Regular,0.1545,Meat,81.13,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_07152,PRD-75E78H,7.08,Low Fat,0.0541,Household,178.43,STORE-JOR,34,,Tier_3,Corner Shop
+row_07155,PRD-IEPXXY,19.058,Low Fat,0.0164,Frozen Foods,122.2,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_07170,PRD-48C6WZ,15.708,Regular,0.0182,Fruits and Vegetables,59.61,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_07173,PRD-C04T2V,12.968,Low Fat,0.0349,Household,48.46,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_07181,PRD-QE536X,7.469,Low Fat,0.0944,FRUITS AND VEGETABLES,95.51,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_07196,PRD-9Q4JNA,19.68,Low Fat,0.0652,SNACK FOODS,251.72,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_07205,PRD-21520R,15.695,Low Fat,0.0265,Snack Foods,84.51,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_07206,PRD-02NFGI,5.939,Low Fat,0.0333,CANNED,175.64,STORE-HL7,23,Medium,Tier_3,Superstore
+row_07208,PRD-0JE4QV,6.705,Low Fat,0.0351,FROZEN FOODS,220.66,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_07219,PRD-Q51250,15.684,Low Fat,0.104,household,209.7,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_07225,PRD-9IT02F,17.459,Low Fat,0.1096,HOUSEHOLD,114.37,STORE-JOR,34,,Tier_3,Corner Shop
+row_07228,PRD-E5BLYU,12.514,Regular,0.0559,SNACK FOODS,56.63,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_07229,PRD-C3Y7HA,15.908,Low Fat,0.0208,FRUITS AND VEGETABLES,50.26,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_07235,PRD-098QST,7.046,Low Fat,0.0,Frozen Foods,258.1,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_07239,PRD-D9146L,18.911,Low Fat,0.0766,Snack Foods,162.55,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_07243,PRD-A6X5Z0,18.188,Low Fat,0.0818,Health and Hygiene,92.17,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_07248,PRD-BAZHAK,19.454,Low Fat,0.0978,Frozen Foods,115.01,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_07250,PRD-YW8YG4,5.748,Low Fat,0.0632,Frozen Foods,258.6,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_07251,PRD-RVU8FI,14.006,Low Fat,0.1862,Soft Drinks,81.7,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_07258,PRD-7JTKKU,17.98,Regular,0.0425,fruits and vegetables,82.76,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_07261,PRD-F88JRF,,Regular,0.112,Frozen Foods,146.15,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_07277,PRD-CC46C1,19.652,Regular,0.0,baking goods,193.1,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_07288,PRD-RB4BUY,17.787,Regular,0.0412,Frozen Foods,164.58,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_07292,PRD-2T1TDG,9.569,Low Fat,0.0457,HARD DRINKS,188.33,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_07301,PRD-JRFCO7,9.24,Low Fat,0.1164,FROZEN FOODS,57.73,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_07303,PRD-7VKBB8,,Low Fat,0.0,Household,95.71,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_07304,PRD-VP8OWT,,Low Fat,0.0276,Household,143.42,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_07315,PRD-7Q5FPH,7.773,Low Fat,0.2162,FRUITS AND VEGETABLES,164.21,STORE-JOR,34,,Tier_3,Corner Shop
+row_07317,PRD-TKW2J2,,Regular,0.053,BREADS,220.3,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_07320,PRD-TGIQHG,6.349,Low Fat,0.0874,Hard Drinks,106.02,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_07324,PRD-R0T4EX,12.51,Low Fat,0.0707,starchy foods,263.95,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_07334,PRD-DQHDK3,15.552,Regular,0.0367,Snack Foods,108.88,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_07354,PRD-P6SDYY,19.14,Regular,0.0646,Meat,164.34,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_07356,PRD-D7J32F,,Low Fat,0.1376,fruits and vegetables,147.87,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_07357,PRD-AQA355,16.824,Low Fat,0.0,frozen foods,36.55,STORE-JOR,34,,Tier_3,Corner Shop
+row_07358,PRD-YUXGFA,11.567,Regular,0.0391,SNACK FOODS,109.15,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_07360,PRD-SY94EV,11.325,Low Fat,0.0215,Health and Hygiene,130.68,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_07362,PRD-18NL4I,19.381,Regular,0.0217,Fruits and Vegetables,120.51,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_07370,PRD-7DMS2Z,13.718,Low Fat,0.031,meat,60.5,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_07375,PRD-ULF5VL,5.854,Regular,0.0709,SNACK FOODS,269.44,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_07380,PRD-TOPS2I,,Low Fat,0.0844,breakfast,194.76,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_07394,PRD-202SK1,19.088,Low Fat,0.0814,Canned,180.06,STORE-HL7,23,Medium,Tier_3,Superstore
+row_07396,PRD-I67HN3,20.505,Low Fat,0.0103,Household,229.28,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_07397,PRD-NVGFYG,8.967,Low Fat,0.0201,SOFT DRINKS,148.98,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_07402,PRD-3WTZL0,5.424,Low Fat,0.0,Others,101.76,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_07406,PRD-9K044M,,Regular,0.0,Starchy Foods,59.45,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_07423,PRD-P8BYW4,12.528,Regular,0.0229,meat,223.46,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_07424,PRD-NBDVPI,,Regular,0.0562,Fruits and Vegetables,219.65,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_07431,PRD-V0T5X3,16.204,Low Fat,0.0223,dairy,110.65,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_07435,PRD-VTTR5G,14.13,Regular,0.0538,breakfast,239.33,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_07439,PRD-EFRJYJ,5.242,Regular,0.1446,SEAFOOD,169.13,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_07448,PRD-VP8H4N,8.647,Low Fat,0.0937,CANNED,51.3,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_07454,PRD-X7AKU0,9.996,Low Fat,0.0707,Health and Hygiene,119.16,STORE-HL7,23,Medium,Tier_3,Superstore
+row_07460,PRD-ZTFIIA,16.582,Low Fat,0.026,Fruits and Vegetables,167.59,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_07463,PRD-V1VXVU,5.32,Low Fat,0.0,health and hygiene,100.23,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_07464,PRD-AQHIU3,19.793,Low Fat,0.0263,health and hygiene,63.99,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_07480,PRD-2460MA,18.548,Low Fat,0.0516,HEALTH AND HYGIENE,190.56,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_07491,PRD-VCZHN7,,Low Fat,0.1742,snack foods,122.55,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_07495,PRD-IGJGK2,17.443,Regular,0.1269,meat,99.67,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_07496,PRD-S4SJ2V,5.249,Regular,0.2218,Dairy,55.88,STORE-JOR,34,,Tier_3,Corner Shop
+row_07504,PRD-1MJQUE,16.478,Regular,0.0913,BAKING GOODS,96.43,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_07514,PRD-082UAZ,6.751,Low Fat,0.0283,Household,175.96,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_07515,PRD-TOTSN5,17.412,Regular,0.052,STARCHY FOODS,46.17,STORE-HL7,23,Medium,Tier_3,Superstore
+row_07516,PRD-IZED1I,16.352,Regular,0.0374,snack foods,145.62,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_07518,PRD-T6T18U,11.998,Low Fat,0.0316,canned,78.63,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_07524,PRD-6I2KOE,19.809,Low Fat,0.0406,Snack Foods,170.94,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_07525,PRD-Y7T0DJ,14.494,Low Fat,0.1227,Fruits and Vegetables,85.58,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_07528,PRD-K3I8BZ,11.691,Low Fat,0.1088,soft drinks,186.17,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_07529,PRD-JDWCJC,16.293,Regular,0.105,Snack Foods,59.95,STORE-JOR,34,,Tier_3,Corner Shop
+row_07532,PRD-SMRD3A,8.758,Low Fat,0.0555,FRUITS AND VEGETABLES,179.28,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_07534,PRD-MJ7PDZ,17.694,Low Fat,0.0116,frozen foods,96.28,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_07537,PRD-J3GHQ5,9.074,Low Fat,0.0446,fruits and vegetables,86.88,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_07541,PRD-JZETKP,7.99,Low Fat,0.014,Baking Goods,80.99,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_07546,PRD-2DT1EG,5.572,Low Fat,0.2131,HEALTH AND HYGIENE,121.66,STORE-JOR,34,,Tier_3,Corner Shop
+row_07551,PRD-Y8VYIF,19.005,Low Fat,0.0443,Canned,261.55,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_07557,PRD-COMXJF,9.067,Low Fat,0.1741,BAKING GOODS,130.34,STORE-HL7,23,Medium,Tier_3,Superstore
+row_07571,PRD-ILAZCL,8.038,Low Fat,0.0102,Snack Foods,251.29,STORE-HL7,23,Medium,Tier_3,Superstore
+row_07577,PRD-PR2ESP,14.38,Low Fat,0.0213,Hard Drinks,142.78,STORE-HL7,23,Medium,Tier_3,Superstore
+row_07580,PRD-98BNVW,18.721,Regular,0.066,fruits and vegetables,183.11,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_07587,PRD-25OW9Y,11.863,Low Fat,0.0364,Meat,62.16,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_07591,PRD-7SMC67,16.056,Low Fat,0.1504,Breakfast,125.53,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_07592,PRD-BGLSH8,20.056,Low Fat,0.0321,Household,40.69,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_07609,PRD-F6ZM5U,18.423,Low Fat,0.0374,Snack Foods,147.93,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_07633,PRD-884JXZ,,Low Fat,0.0318,Frozen Foods,150.91,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_07634,PRD-0U24IQ,,Low Fat,0.1253,dairy,91.1,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_07649,PRD-2GKFSF,5.929,Low Fat,0.0244,HOUSEHOLD,151.68,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_07677,PRD-2G9O9Y,6.613,Regular,0.0948,CANNED,244.55,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_07683,PRD-QIGCT2,14.796,Regular,0.0555,Baking Goods,119.9,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_07687,PRD-QP5M3G,7.308,Low Fat,0.0159,Canned,92.44,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_07697,PRD-TOPS2I,20.641,Low Fat,0.0849,breakfast,198.01,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_07698,PRD-ZMEPGT,7.412,Low Fat,0.0609,SOFT DRINKS,90.96,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_07700,PRD-MAA7H7,,Regular,0.0,Snack Foods,51.97,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_07709,PRD-VD6XDH,,Low Fat,0.0677,snack foods,170.49,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_07713,PRD-I85FVO,19.726,Low Fat,0.0693,Household,60.3,STORE-HL7,23,Medium,Tier_3,Superstore
+row_07715,PRD-90O7Y2,,Low Fat,0.1694,Soft Drinks,194.0,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_07726,PRD-Q7WI57,10.277,Low Fat,0.0414,fruits and vegetables,39.35,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_07734,PRD-965050,9.043,Low Fat,0.0816,Frozen Foods,218.8,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_07746,PRD-S9CFU5,9.177,Regular,0.1129,Snack Foods,161.67,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_07748,PRD-DQHDK3,,Regular,0.037,snack foods,114.16,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_07753,PRD-PZFBNK,,Low Fat,0.0,STARCHY FOODS,193.5,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_07755,PRD-Y54CLR,19.833,Regular,0.1342,Snack Foods,166.65,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_07759,PRD-6HEP2U,18.266,Low Fat,0.013,SNACK FOODS,140.51,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_07763,PRD-6V1JZP,16.856,Low Fat,0.0274,household,253.32,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_07771,PRD-71SD9E,14.301,Low Fat,0.1127,snack foods,197.62,STORE-JOR,34,,Tier_3,Corner Shop
+row_07784,PRD-ZGVTUI,11.004,Low Fat,0.0964,Meat,102.95,STORE-HL7,23,Medium,Tier_3,Superstore
+row_07790,PRD-ZBM21Y,20.419,Low Fat,0.0215,Baking Goods,152.89,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_07796,PRD-H0JJGG,,Low Fat,0.1087,Frozen Foods,104.89,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_07800,PRD-75I63R,9.141,Regular,0.0656,FROZEN FOODS,88.66,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_07804,PRD-U1YBPE,10.495,Low Fat,0.0109,Household,231.68,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_07806,PRD-THVKB8,,Regular,0.1492,dairy,268.44,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_07808,PRD-EN0T5G,11.737,Low Fat,0.109,health and hygiene,260.82,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_07812,PRD-MLWBFJ,6.554,Low Fat,0.0285,Baking Goods,96.34,STORE-HL7,23,Medium,Tier_3,Superstore
+row_07819,PRD-6LCP22,21.98,Low Fat,0.0683,Canned,259.25,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_07821,PRD-VLTBHO,,Low Fat,0.154,MEAT,157.18,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_07822,PRD-E5BLYU,12.104,Regular,0.0578,Snack Foods,59.59,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_07823,PRD-P6SDYY,,Regular,0.0666,Meat,163.54,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_07825,PRD-QIGCT2,14.807,Regular,0.0539,Baking Goods,125.13,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_07839,PRD-PSQUZU,18.199,Low Fat,0.0552,snack foods,196.48,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_07843,PRD-ZFV8YU,7.74,Low Fat,0.0572,fruits and vegetables,129.56,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_07847,PRD-031L36,,Regular,0.2484,baking goods,94.92,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_07861,PRD-AFT69N,11.949,Regular,0.0146,Frozen Foods,180.18,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_07864,PRD-MECOSF,5.751,Regular,0.0184,Soft Drinks,49.78,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_07869,PRD-EHJIMM,,Low Fat,0.0852,Household,59.8,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_07870,PRD-2OQEWF,18.245,Low Fat,0.0328,Others,132.44,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_07871,PRD-6THSXO,,Low Fat,0.0276,Frozen Foods,106.21,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_07879,PRD-FKTCNU,9.03,Regular,0.0909,Snack Foods,125.39,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_07886,PRD-2G9O9Y,6.694,Regular,0.0901,Canned,258.94,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_07888,PRD-GV2TFK,,Low Fat,0.0469,health and hygiene,96.81,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_07891,PRD-9STG4E,,Regular,0.0246,Canned,87.45,STORE-JOR,34,,Tier_3,Corner Shop
+row_07893,PRD-OFGVRE,6.71,Regular,0.0306,Baking Goods,65.13,STORE-HL7,23,Medium,Tier_3,Superstore
+row_07896,PRD-RMB8Q9,10.348,Low Fat,0.0344,Health and Hygiene,83.84,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_07899,PRD-DZVGPM,20.967,Low Fat,0.0218,soft drinks,148.58,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_07902,PRD-2T1TDG,9.398,Low Fat,0.0437,hard drinks,189.81,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_07911,PRD-6V1JZP,,Low Fat,0.0466,Household,251.73,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_07912,PRD-JLQFJT,19.215,Low Fat,0.0,Household,125.04,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_07915,PRD-8S2XEM,12.649,Regular,0.0392,FRUITS AND VEGETABLES,113.04,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_07923,PRD-VQ553K,14.556,Regular,0.0589,Fruits and Vegetables,171.83,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_07935,PRD-L7ZBSF,20.939,Regular,0.1122,Fruits and Vegetables,196.09,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_07939,PRD-3A1DU1,5.686,Low Fat,0.0777,Household,172.24,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_07943,PRD-CP4E30,5.886,Low Fat,0.0223,dairy,181.88,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_07950,PRD-AK5W77,,Regular,0.0307,CANNED,229.37,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_07952,PRD-0UQYHD,16.379,Low Fat,0.0389,household,116.46,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_07959,PRD-PGDZ95,14.523,Low Fat,0.1326,Frozen Foods,84.62,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_07960,PRD-NSLK6R,18.093,Regular,0.0707,Baking Goods,185.4,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_07966,PRD-82BCVD,20.625,Regular,0.0974,fruits and vegetables,124.34,STORE-JOR,34,,Tier_3,Corner Shop
+row_07967,PRD-4AWTY0,9.398,Low Fat,0.0879,HARD DRINKS,187.47,STORE-HL7,23,Medium,Tier_3,Superstore
+row_07969,PRD-IZED1I,17.111,Regular,0.0377,Snack Foods,142.67,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_07971,PRD-VM8F3I,15.687,Regular,0.1159,FRUITS AND VEGETABLES,56.28,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_07977,PRD-IVLU4E,15.959,Low Fat,0.0131,Others,104.34,STORE-HL7,23,Medium,Tier_3,Superstore
+row_07981,PRD-I7OGZA,16.401,Low Fat,0.0,household,194.17,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_07988,PRD-8YXU1P,12.524,Low Fat,0.0465,Others,116.11,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_07991,PRD-M82I1L,9.655,Low Fat,0.1622,SOFT DRINKS,225.7,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_07993,PRD-2PCM3G,18.451,Low Fat,0.0381,FRUITS AND VEGETABLES,113.26,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_07994,PRD-NCP2VI,17.787,Low Fat,0.0197,HEALTH AND HYGIENE,242.84,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_07996,PRD-J28SY2,,Regular,0.1343,baking goods,256.69,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_08010,PRD-7MBAPO,10.39,Regular,0.0523,Fruits and Vegetables,227.21,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_08016,PRD-Z4T48O,10.506,Regular,0.0111,SNACK FOODS,89.91,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_08022,PRD-78ZC9Y,17.459,Low Fat,0.0584,dairy,220.59,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_08023,PRD-M80O2R,7.52,Low Fat,0.086,Soft Drinks,182.24,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_08027,PRD-IYIJE7,12.807,Low Fat,0.1628,snack foods,215.84,STORE-JOR,34,,Tier_3,Corner Shop
+row_08029,PRD-EQUA7O,12.152,Regular,0.0268,MEAT,104.05,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_08031,PRD-4R1F1X,17.168,Low Fat,0.0084,dairy,175.92,STORE-HL7,23,Medium,Tier_3,Superstore
+row_08032,PRD-5GAS44,8.64,Low Fat,0.0461,Soft Drinks,155.05,STORE-JOR,34,,Tier_3,Corner Shop
+row_08042,PRD-AG1OL7,15.303,Low Fat,0.0211,Soft Drinks,215.14,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_08048,PRD-OQTR1Y,,Low Fat,0.1039,Snack Foods,189.99,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_08050,PRD-RDW6ET,8.845,Regular,0.0719,Fruits and Vegetables,184.98,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_08055,PRD-ZYK421,8.921,Low Fat,0.0381,HOUSEHOLD,34.66,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_08060,PRD-GBYJDD,17.394,Low Fat,0.0156,Fruits and Vegetables,179.94,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_08062,PRD-4GPYWS,13.905,Low Fat,0.029,FRUITS AND VEGETABLES,221.56,STORE-HL7,23,Medium,Tier_3,Superstore
+row_08067,PRD-7Y6KY9,20.463,Low Fat,0.0331,baking goods,182.08,STORE-HL7,23,Medium,Tier_3,Superstore
+row_08072,PRD-THLXJ6,13.017,Low Fat,0.1192,snack foods,42.81,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_08073,PRD-T0VKG3,18.075,Low Fat,0.0471,Household,129.14,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_08075,PRD-EBEM2I,12.116,Regular,0.1025,FRUITS AND VEGETABLES,179.03,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_08079,PRD-MSK8AG,17.381,Low Fat,0.1481,dairy,180.25,STORE-JOR,34,,Tier_3,Corner Shop
+row_08081,PRD-UP0URE,12.099,Regular,0.0752,DAIRY,48.0,STORE-HL7,23,Medium,Tier_3,Superstore
+row_08083,PRD-AV3JCJ,17.488,Regular,0.1296,Breakfast,40.98,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_08086,PRD-Q8SB7X,,Regular,0.0201,BREAKFAST,129.29,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_08089,PRD-IAZMTU,,Low Fat,0.04,BAKING GOODS,104.18,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_08097,PRD-JKU72H,16.151,Low Fat,0.1019,CANNED,99.62,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_08101,PRD-CFZYY9,15.368,Low Fat,0.0919,FROZEN FOODS,215.41,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_08111,PRD-884JXZ,17.01,Low Fat,0.0321,frozen foods,152.27,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_08118,PRD-9JRSNV,16.775,Low Fat,0.0383,Soft Drinks,167.56,STORE-HL7,23,Medium,Tier_3,Superstore
+row_08121,PRD-PL13YL,15.831,Low Fat,0.1743,HEALTH AND HYGIENE,179.49,STORE-HL7,23,Medium,Tier_3,Superstore
+row_08140,PRD-KF9QCF,,Low Fat,0.0775,health and hygiene,36.02,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_08142,PRD-TC2QWF,15.393,Regular,0.1555,CANNED,187.49,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_08155,PRD-XLZYOB,6.345,Low Fat,0.0,Frozen Foods,61.44,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_08156,PRD-6KHXCY,,Regular,0.055,Meat,154.87,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_08158,PRD-YW8YG4,5.543,Low Fat,0.0645,Frozen Foods,250.85,STORE-HL7,23,Medium,Tier_3,Superstore
+row_08180,PRD-1GN81E,13.575,Regular,0.1207,SNACK FOODS,264.23,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_08185,PRD-PWKCZV,7.356,Low Fat,0.0171,FRUITS AND VEGETABLES,229.26,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_08191,PRD-PPPTFE,11.922,Regular,0.1784,Canned,116.21,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_08201,PRD-YLAH3X,15.111,Low Fat,0.0589,Household,109.39,STORE-JOR,34,,Tier_3,Corner Shop
+row_08204,PRD-UJG7IN,,Low Fat,0.0916,Frozen Foods,128.04,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_08213,PRD-D6O9YZ,11.114,Regular,0.0,BAKING GOODS,41.88,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_08220,PRD-D8LKB5,16.342,Low Fat,0.0456,Snack Foods,184.67,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_08225,PRD-YFXOBU,8.714,Regular,0.0718,Fruits and Vegetables,191.0,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_08231,PRD-GGO8YM,,Regular,0.0658,BREAKFAST,178.81,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_08242,PRD-I1E9QQ,7.752,Low Fat,0.0,Household,256.32,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_08245,PRD-CETEN7,6.843,Regular,0.1271,baking goods,44.34,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_08248,PRD-8R8KUS,,Regular,0.113,FRUITS AND VEGETABLES,113.44,STORE-T5G,47,Small,Tier_1,Corner Shop
+row_08258,PRD-TW0A9P,12.844,Regular,0.0821,Canned,201.06,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_08260,PRD-202SK1,19.929,Low Fat,0.084,Canned,174.87,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_08264,PRD-ZTFIIA,16.692,Low Fat,0.0266,FRUITS AND VEGETABLES,162.58,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_08268,PRD-ONGWUL,13.313,Low Fat,0.0415,Household,250.7,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_08282,PRD-J28SY2,15.23,Regular,0.0752,BAKING GOODS,260.65,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_08298,PRD-MGCY57,6.728,Regular,0.084,Fruits and Vegetables,222.88,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_08300,PRD-G1X3J1,,Low Fat,0.1121,SOFT DRINKS,198.03,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_08301,PRD-4AAL09,,Low Fat,0.0783,Others,36.44,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_08306,PRD-H4PNZP,17.655,Regular,0.0125,Fruits and Vegetables,56.98,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_08308,PRD-6NJX8K,6.715,Low Fat,0.0381,Household,232.71,STORE-HL7,23,Medium,Tier_3,Superstore
+row_08313,PRD-7TV5ZK,7.086,Regular,0.1372,Canned,115.4,STORE-HL7,23,Medium,Tier_3,Superstore
+row_08320,PRD-AK2WNJ,10.505,Low Fat,0.0793,Baking Goods,181.04,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_08322,PRD-8SEN50,12.956,Low Fat,0.1545,others,107.87,STORE-JOR,34,,Tier_3,Corner Shop
+row_08329,PRD-031L36,6.887,Regular,0.1453,BAKING GOODS,94.47,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_08330,PRD-C1HY2U,20.047,Low Fat,0.0771,DAIRY,112.79,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_08332,PRD-AN4EIO,14.096,Regular,0.1397,frozen foods,52.91,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_08336,PRD-KJ6I53,7.509,Low Fat,0.1862,household,34.81,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_08337,PRD-CTXCWN,15.965,Low Fat,0.02,soft drinks,155.78,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_08340,PRD-1UQBFO,15.336,Low Fat,0.0617,HARD DRINKS,46.19,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_08345,PRD-VHS1K3,13.97,Low Fat,0.0298,SOFT DRINKS,138.73,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_08355,PRD-082UAZ,6.818,Low Fat,0.0437,Household,168.41,STORE-JOR,34,,Tier_3,Corner Shop
+row_08357,PRD-OQTFZN,12.334,Regular,0.1276,FRUITS AND VEGETABLES,194.41,STORE-HL7,23,Medium,Tier_3,Superstore
+row_08360,PRD-FZ61II,10.401,Regular,0.1441,Frozen Foods,139.61,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_08367,PRD-IUYATD,10.8,Low Fat,0.0327,Household,122.1,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_08373,PRD-97XGCK,15.873,Low Fat,0.082,baking goods,115.55,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_08375,PRD-PQNOMP,17.097,Low Fat,0.0,baking goods,104.25,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_08382,PRD-7FS31F,,Regular,0.0582,FRUITS AND VEGETABLES,238.16,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_08385,PRD-ZFWONV,5.346,Regular,0.1054,Fruits and Vegetables,142.02,STORE-DKU,30,,Tier_2,Standard Supermarket
+row_08386,PRD-1YKXQ9,18.574,Low Fat,0.054,HEALTH AND HYGIENE,105.33,STORE-HL7,23,Medium,Tier_3,Superstore
+row_08392,PRD-0IFJNT,12.877,Low Fat,0.0727,DAIRY,168.28,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_08408,PRD-TKW2J2,7.25,Regular,0.0565,Breads,222.76,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_08413,PRD-XGX8WD,8.084,Regular,0.1709,dairy,115.12,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_08418,PRD-74AVMI,,Low Fat,0.0877,SNACK FOODS,232.67,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_08423,PRD-GS8W0Q,10.96,Low Fat,0.0512,FRUITS AND VEGETABLES,245.5,STORE-9RG,28,Small,Tier_2,Standard Supermarket
+row_08450,PRD-40V1GK,,Low Fat,0.0259,SNACK FOODS,256.24,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_08456,PRD-R3PE29,5.721,Low Fat,0.1811,soft drinks,144.67,STORE-HL7,23,Medium,Tier_3,Superstore
+row_08458,PRD-NAMSQE,12.635,Regular,0.0,Baking Goods,77.03,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_08462,PRD-75E78H,7.37,Low Fat,0.0312,household,176.68,STORE-HL7,23,Medium,Tier_3,Superstore
+row_08464,PRD-Z8TUBC,20.763,Low Fat,0.0211,Household,74.58,STORE-YLW,35,Small,Tier_1,Standard Supermarket
+row_08465,PRD-1RXIV4,17.634,Low Fat,0.0491,Snack Foods,170.23,STORE-JOR,34,,Tier_3,Corner Shop
+row_08470,PRD-9AHW2P,14.096,Regular,0.0561,snack foods,235.33,STORE-HL7,23,Medium,Tier_3,Superstore
+row_08472,PRD-UZET1P,13.296,Low Fat,0.0379,Fruits and Vegetables,176.27,STORE-AGY,45,Large,Tier_3,Standard Supermarket
+row_08477,PRD-2VTJXU,,Low Fat,0.1165,Fruits and Vegetables,45.61,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_08479,PRD-MU6FGK,,Low Fat,0.0268,Frozen Foods,52.29,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_08481,PRD-VQPG4P,10.893,Low Fat,0.0496,others,168.38,STORE-OYG,25,,Tier_2,Standard Supermarket
+row_08483,PRD-58L9K5,17.919,Low Fat,0.0607,Starchy Foods,168.62,STORE-89Z,33,Medium,Tier_1,Standard Supermarket
+row_08489,PRD-0B58ST,16.748,Regular,0.0136,canned,97.26,STORE-JOR,34,,Tier_3,Corner Shop
+row_08491,PRD-RH8H90,9.876,Low Fat,0.0239,health and hygiene,183.35,STORE-HL7,23,Medium,Tier_3,Superstore
+row_08504,PRD-J51IFI,,Low Fat,0.0221,Breads,166.09,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket
+row_08515,PRD-6S601Z,11.284,Regular,0.1299,frozen foods,102.24,STORE-9RG,28,Small,Tier_2,Standard Supermarket
